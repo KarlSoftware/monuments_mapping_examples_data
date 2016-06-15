@@ -1,0 +1,87 @@
+{| class="wikitable"
+|+ monuments_cm_(fr)
+! heritage field
+! example value
+! Wikidata property
+! Conversion
+! Comment
+|-
+| id
+| 0
+|
+| 
+| 
+|-
+| nom
+| [[Canon allemand de Bimbia]]
+|
+| 
+| 
+|-
+| description
+| 
+|
+| 
+| 
+|-
+| region
+| [[Région du Sud-Ouest (Cameroun)|Sud-Ouest]]
+|
+| 
+| 
+|-
+| region_iso
+| CM-SW
+|
+| 
+| 
+|-
+| ville
+| [[Limbé]]
+|
+| 
+| 
+|-
+| lat
+| None
+|
+| 
+| 
+|-
+| lon
+| None
+|
+| 
+| 
+|-
+| image
+| Bimbia - Canon allemand.JPG
+|
+| 
+| 
+|-
+| commonscat
+| Bimbia - Canon allemand
+|
+| 
+| 
+|-
+| source
+| //fr.wikipedia.org/w/index.php?title=Liste_de_monuments_du_Cameroun&oldid=126647091
+|
+| 
+| 
+|-
+| changed
+| 2016-06-08 12:15:38
+|
+| 
+| 
+|-
+| monument_article
+| Canon_allemand_de_Bimbia
+|
+| 
+| 
+|-
+|}

@@ -1,0 +1,141 @@
+{| class="wikitable"
+|+ monuments_es-ct_(ca)
+! heritage field
+! example value
+! Wikidata property
+! Conversion
+! Comment
+|-
+| bic
+| IPA-377
+|
+| 
+| 
+|-
+| idurl
+| 377
+|
+| 
+| 
+|-
+| idurl2
+| ccau/14
+|
+| 
+| 
+|-
+| prot
+| None
+|
+| 
+| 
+|-
+| idprot
+| 
+|
+| 
+| 
+|-
+| nom
+| Església de [[Sant Vicenç d'Estamariu]]
+|
+| 
+| 
+|-
+| estil
+| Romànic
+|
+| 
+| 
+|-
+| epoca
+| XI
+|
+| 
+| 
+|-
+| municipi
+| Estamariu
+|
+| 
+| 
+|-
+| lloc
+| 
+|
+| 
+| 
+|-
+| lat
+| 42.375546
+|
+| 
+| 
+|-
+| lon
+| 1.525346
+|
+| 
+| 
+|-
+| nomcoor
+| Església de Sant Vicenç d'Estamariu
+|
+| 
+| 
+|-
+| imatge
+| Sant Vicenç d'Estamariu - exterior.JPG
+|
+| 
+| 
+|-
+| title
+| Llista_de_monuments_de_l'Alt_Urgell
+|
+| 
+| 
+|-
+| commonscat
+| Sant Vicenç d'Estamariu
+|
+| 
+| 
+|-
+| CCAA_iso
+| ES-CT
+|
+| 
+| 
+|-
+| provincia_iso
+| ES-L
+|
+| 
+| 
+|-
+| source
+| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_de_l%27Alt_Urgell&oldid=16981766
+|
+| 
+| 
+|-
+| changed
+| 2016-06-08 06:35:14
+|
+| 
+| 
+|-
+| monument_article
+| Sant_Vicenç_d'Estamariu
+|
+| 
+| 
+|-
+| registrant_url
+| http://cultura.gencat.cat/invarquit/Fitxa.asp?idregistre=377
+|
+| 
+| 
+|-
+|}

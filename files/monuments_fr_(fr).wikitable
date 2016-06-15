@@ -1,0 +1,141 @@
+{| class="wikitable"
+|+ monuments_fr_(fr)
+! heritage field
+! example value
+! Wikidata property
+! Conversion
+! Comment
+|-
+| tri
+| Chapelle Saint-Christophe Lorient
+|
+| 
+| 
+|-
+| monument
+| [[Chapelle Saint-Christophe de Lorient|Chapelle Saint-Christophe]]
+|
+| 
+| 
+|-
+| region_iso
+| fr-e
+|
+| 
+| 
+|-
+| departement_iso
+| fr-56
+|
+| 
+| 
+|-
+| commune
+| [[Lorient]]
+|
+| 
+| 
+|-
+| tri commune
+| Lorient
+|
+| 
+| 
+|-
+| adresse
+| Impasse de la chapelle Saint-Christophe
+|
+| 
+| 
+|-
+| tri adresse
+| 
+|
+| 
+| 
+|-
+| lat
+| 47.760083
+|
+| 
+| 
+|-
+| lon
+| -3.364306
+|
+| 
+| 
+|-
+| titre_coordonnees
+| Chapelle Saint-Christophe de Lorient
+|
+| 
+| 
+|-
+| notice
+| PA00091409
+|
+| 
+| 
+|-
+| protection
+| Inscrit
+|
+| 
+| 
+|-
+| date
+| 1934
+|
+| 
+| 
+|-
+| image
+| Lorient - Chapelle Saint-Christophe - facade sud-ouest.jpg
+|
+| 
+| 
+|-
+| portrait
+| 
+|
+| 
+| 
+|-
+| commonscat
+| 
+|
+| 
+| 
+|-
+| id
+| 
+|
+| 
+| 
+|-
+| source
+| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_historiques_de_l%27arrondissement_de_Lorient&oldid=126598536
+|
+| 
+| 
+|-
+| changed
+| 2016-06-08 12:11:44
+|
+| 
+| 
+|-
+| monument_article
+| Chapelle_Saint-Christophe_de_Lorient
+|
+| 
+| 
+|-
+| registrant_url
+| http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PA00091409
+|
+| 
+| 
+|-
+|}

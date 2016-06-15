@@ -1,0 +1,111 @@
+{| class="wikitable"
+|+ monuments_fr-object_(fr)
+! heritage field
+! example value
+! Wikidata property
+! Conversion
+! Comment
+|-
+| region_iso
+| 
+|
+| 
+| 
+|-
+| departement_iso
+| 
+|
+| 
+| 
+|-
+| commune
+| Abreschviller
+|
+| 
+| 
+|-
+| lieu
+| [[Chemin de fer forestier d'Abreschviller]]
+|
+| 
+| 
+|-
+| description
+| Voiture de service à deux essieux
+|
+| 
+| 
+|-
+| palissy
+| PM57000528
+|
+| 
+| 
+|-
+| protection
+| Classé
+|
+| 
+| 
+|-
+| type
+| Voiture de service
+|
+| 
+| 
+|-
+| ecartement
+| voie de 70
+|
+| 
+| 
+|-
+| date
+| 1992
+|
+| 
+| 
+|-
+| lat
+| None
+|
+| 
+| 
+|-
+| lon
+| None
+|
+| 
+| 
+|-
+| image
+| 
+|
+| 
+| 
+|-
+| commonscat
+| 
+|
+| 
+| 
+|-
+| registrant_url
+| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM57000528
+|
+| 
+| 
+|-
+| source
+| //fr.wikipedia.org/w/index.php?title=Liste_des_voitures_et_wagons_prot%C3%A9g%C3%A9s_aux_monuments_historiques&oldid=126860993
+|
+| 
+| 
+|-
+| changed
+| 2016-06-08 05:11:36
+|
+| 
+| 
+|-
+|}
