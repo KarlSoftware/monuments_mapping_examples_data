@@ -1,49 +1,49 @@
-= Non-standardized fields from country no in monuments_all =
+= Non-standardized fields from country nl-gem in monuments_all =
 == 10 random samples from field id ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-id 10 random samples
+|+ nl-gem-id 10 random samples
 ! scope='col' style='width: 225px;' |id
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 144444
+| style='height: 20px;'| 0361/WN050
 |
 |
 |-
-| style='height: 20px;'| 159293
+| style='height: 20px;'| 0202/WN1626
 |
 |
 |-
-| style='height: 20px;'| 95211
+| style='height: 20px;'| 0689/WN003
 |
 |
 |-
-| style='height: 20px;'| 21646
+| style='height: 20px;'| 0503/2667
 |
 |
 |-
-| style='height: 20px;'| 102909
+| style='height: 20px;'| 0392/59-0079
 |
 |
 |-
-| style='height: 20px;'| 41632
+| style='height: 20px;'| 0018/30
 |
 |
 |-
-| style='height: 20px;'| 100707
+| style='height: 20px;'| 1655/WN075
 |
 |
 |-
-| style='height: 20px;'| 131839
+| style='height: 20px;'| 0175/OMMENGM-25
 |
 |
 |-
-| style='height: 20px;'| 130093
+| style='height: 20px;'| 1773/WN022
 |
 |
 |-
-| style='height: 20px;'| 19300
+| style='height: 20px;'| 1876/wikinr203
 |
 |
 |-
@@ -51,48 +51,48 @@
 == 10 random samples from field adm0 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm0 10 random samples
+|+ nl-gem-adm0 10 random samples
 ! scope='col' style='width: 225px;' |adm0
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| nl
 |
 |
 |-
@@ -100,48 +100,48 @@
 == 10 random samples from field adm1 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm1 10 random samples
+|+ nl-gem-adm1 10 random samples
 ! scope='col' style='width: 225px;' |adm1
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no-05
+| style='height: 20px;'| nl-nh
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| nl-ov
 |
 |
 |-
-| style='height: 20px;'| no-01
+| style='height: 20px;'| nl-nh
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| nl-nh
 |
 |
 |-
-| style='height: 20px;'| no-21
+| style='height: 20px;'| nl-nh
 |
 |
 |-
-| style='height: 20px;'| no-19
+| style='height: 20px;'| nl-zh
 |
 |
 |-
-| style='height: 20px;'| no-20
+| style='height: 20px;'| nl-ge
 |
 |
 |-
-| style='height: 20px;'| no-10
+| style='height: 20px;'| nl-ge
 |
 |
 |-
-| style='height: 20px;'| no-18
+| style='height: 20px;'| nl-ge
 |
 |
 |-
-| style='height: 20px;'| no-06
+| style='height: 20px;'| nl-zh
 |
 |
 |-
@@ -149,48 +149,48 @@
 == 10 random samples from field adm2 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm2 10 random samples
+|+ nl-gem-adm2 10 random samples
 ! scope='col' style='width: 225px;' |adm2
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| [[Tilburg (gemeente)|Tilburg]]
 |
 |
 |-
-| style='height: 20px;'| [[Vågå]]
+| style='height: 20px;'| [[Den Haag]]
 |
 |
 |-
-| style='height: 20px;'| [[Nordvest-Spitsbergen nasjonalpark]]
+| style='height: 20px;'| [[Horst aan de Maas]]
 |
 |
 |-
-| style='height: 20px;'| [[Surnadal]]
+| style='height: 20px;'| [[Woerden]]
 |
 |
 |-
-| style='height: 20px;'| [[Vikna]]
+| style='height: 20px;'| [[Haarlem]]
 |
 |
 |-
-| style='height: 20px;'| [[Etnedal]]
+| style='height: 20px;'| [[Arnhem]]
 |
 |
 |-
-| style='height: 20px;'| [[Enebakk]]
+| style='height: 20px;'| [[Oss (gemeente)]]
 |
 |
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| [[Arnhem]]
 |
 |
 |-
-| style='height: 20px;'| [[Kongsvinger]]
+| style='height: 20px;'| [[Utrecht (stad)|Utrecht]]
 |
 |
 |-
-| style='height: 20px;'| [[Våler (Hedmark)|Våler]]
+| style='height: 20px;'| [[Arnhem]]
 |
 |
 |-
@@ -198,7 +198,7 @@
 == 10 random samples from field adm3 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm3 10 random samples
+|+ nl-gem-adm3 10 random samples
 ! scope='col' style='width: 225px;' |adm3
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -247,7 +247,7 @@
 == 10 random samples from field adm4 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm4 10 random samples
+|+ nl-gem-adm4 10 random samples
 ! scope='col' style='width: 225px;' |adm4
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -296,48 +296,48 @@
 == 10 random samples from field name ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-name 10 random samples
+|+ nl-gem-name 10 random samples
 ! scope='col' style='width: 225px;' |name
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Røylands kvednèhus
+| style='height: 20px;'| Hooiberg
 |
 |
 |-
-| style='height: 20px;'| Hjelmungen Øvre II
+| style='height: 20px;'| Woonhuis
 |
 |
 |-
-| style='height: 20px;'| Harildstad søndre, harildstad sørigard
+| style='height: 20px;'| Woonhuis en bedrijsruimte
 |
 |
 |-
-| style='height: 20px;'| Falkensten - Falkensten Bruk
+| style='height: 20px;'| Vrijstaand herenhuis
 |
 |
 |-
-| style='height: 20px;'| Veie kirkestad
+| style='height: 20px;'| Voorm. woonhuis [[Cornelis Kamphuys|Cornelis Kamphuijs (directeur gelijknamige stoomrijstpellerij aan Oostzijde)]]
 |
 |
 |-
-| style='height: 20px;'| Indre Åsesvi
+| style='height: 20px;'| Winkel met bovenwoningen
 |
 |
 |-
-| style='height: 20px;'| Kjempesteinane
+| style='height: 20px;'| Turfschuur
 |
 |
 |-
-| style='height: 20px;'| Berkåk kirkested
+| style='height: 20px;'| Dubbel woonhuis
 |
 |
 |-
-| style='height: 20px;'| Stemtjønnbekken
+| style='height: 20px;'| Tweelaagse villa, Villa Phaf
 |
 |
 |-
-| style='height: 20px;'| Aldersund kirkested
+| style='height: 20px;'| Stelpboerderij ''Lindahoeve''
 |
 |
 |-
@@ -345,48 +345,48 @@
 == 10 random samples from field address ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-address 10 random samples
+|+ nl-gem-address 10 random samples
 ! scope='col' style='width: 225px;' |address
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Oude molenstraat 17
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Jhr. Ramweg 5-6 Bij
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Zeggertweg 4
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Driessenstraat bij 53
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Ketelaarsweg
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Kwerenpad 15
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Plein 9
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Sint Antonieweg 1
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Lange Haven 102
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Hoge Minstraat 9
 |
 |
 |-
@@ -394,48 +394,48 @@
 == 10 random samples from field municipality ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-municipality 10 random samples
+|+ nl-gem-municipality 10 random samples
 ! scope='col' style='width: 225px;' |municipality
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Evje og Hornnes]]
+| style='height: 20px;'| [[Drimmelen (gemeente)]]
 |
 |
 |-
-| style='height: 20px;'| [[Tinn]]
+| style='height: 20px;'| [[Oisterwijk (gemeente)]]
 |
 |
 |-
-| style='height: 20px;'| [[Iveland]]
+| style='height: 20px;'| [[Nijkerk (gemeente)]]
 |
 |
 |-
-| style='height: 20px;'| [[Karlsøy]]
+| style='height: 20px;'| [[Harderwijk]]
 |
 |
 |-
-| style='height: 20px;'| [[Tjøme]]
+| style='height: 20px;'| [[Nijmegen]]
 |
 |
 |-
-| style='height: 20px;'| [[Ullensvang]]
+| style='height: 20px;'| [[Assen]]
 |
 |
 |-
-| style='height: 20px;'| [[Ibestad]]
+| style='height: 20px;'| [[Veghel (gemeente)]]
 |
 |
 |-
-| style='height: 20px;'| [[Re]]
+| style='height: 20px;'| [[Harlingen (gemeente)|Harlingen]]
 |
 |
 |-
-| style='height: 20px;'| [[Etne]]
+| style='height: 20px;'| [[Leudal (gemeente)]]
 |
 |
 |-
-| style='height: 20px;'| [[Tingvoll]]
+| style='height: 20px;'| [[Arnhem]]
 |
 |
 |-
@@ -443,15 +443,11 @@
 == 10 random samples from field image ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-image 10 random samples
+|+ nl-gem-image 10 random samples
 ! scope='col' style='width: 225px;' |image
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Rødberg tåkeklokke.jpg
-|
-|
-|-
 | style='height: 20px;'| 
 |
 |
@@ -460,7 +456,11 @@
 |
 |
 |-
-| style='height: 20px;'| Gaupholmen, Aust-Agder - Riksantikvaren-T196 01 0127.jpg
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -492,7 +492,7 @@
 == 10 random samples from field commonscat ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-commonscat 10 random samples
+|+ nl-gem-commonscat 10 random samples
 ! scope='col' style='width: 225px;' |commonscat
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -541,48 +541,48 @@
 == 10 random samples from field source ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-source 10 random samples
+|+ nl-gem-source 10 random samples
 ! scope='col' style='width: 225px;' |source
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Vang&oldid=16260235
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Leeuwarden_%28stad%29&oldid=45860419
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_p%C3%A5_resten_av_Svalbard&oldid=16260302
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Castricum&oldid=46346765
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_%C3%98vre_Eiker&oldid=16260297
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Olst-Wijhe&oldid=45053736
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Etnedal&oldid=16259893
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Wageningen&oldid=45490298
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Apeldoorn_%28plaats%29&oldid=46294413
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Kvalsund&oldid=16260004
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Asten&oldid=44219717
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Notodden&oldid=16260093
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Oegstgeest&oldid=46519848
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Harstad&oldid=16259955
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Doorn&oldid=42259643
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Tinn&oldid=16260207
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Ermelo&oldid=44743713
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_gemeentelijke_monumenten_in_Heusden_%28plaats%29&oldid=44926002
 |
 |
 |-
@@ -590,28 +590,16 @@
 == 10 random samples from field monument_article ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-monument_article 10 random samples
+|+ nl-gem-monument_article 10 random samples
 ! scope='col' style='width: 225px;' |monument_article
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Kirkesnesmoen_kirkested
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| Kalvøya_(Djupsundet)
-|
-|
-|-
-| style='height: 20px;'| Gropstein_ved_Hansbu
-|
-|
-|-
-| style='height: 20px;'| Valle_(I+II)_-_Finnhågen
-|
-|
-|-
-| style='height: 20px;'| Tanum_kirke_(Bærum)
+| style='height: 20px;'| 
 |
 |
 |-
@@ -623,7 +611,7 @@
 |
 |
 |-
-| style='height: 20px;'| Ebeltofthamna,
+| style='height: 20px;'| 
 |
 |
 |-
@@ -631,7 +619,19 @@
 |
 |
 |-
-| style='height: 20px;'| Myklaberget
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -639,48 +639,48 @@
 == 10 random samples from field registrant_url ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-registrant_url 10 random samples
+|+ nl-gem-registrant_url 10 random samples
 ! scope='col' style='width: 225px;' |registrant_url
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=83954
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87441
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=41600
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=97168
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=86030
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=142558
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=51904
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87244
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=64209
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=138058
+| style='height: 20px;'| 
 |
 |
 |-

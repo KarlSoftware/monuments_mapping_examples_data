@@ -1,0 +1,687 @@
+= Non-standardized fields from country be-bru in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 2043-0183/09
+|
+|
+|-
+| style='height: 20px;'| 2043-0065/019
+|
+|
+|-
+| style='height: 20px;'| 2071-0060/0
+|
+|
+|-
+| style='height: 20px;'| 2076-0001/0
+|
+|
+|-
+| style='height: 20px;'| 2043-0746/0
+|
+|
+|-
+| style='height: 20px;'| 2043-0087/0
+|
+|
+|-
+| style='height: 20px;'| 2043-0630/0
+|
+|
+|-
+| style='height: 20px;'| 2311-0053/0
+|
+|
+|-
+| style='height: 20px;'| 2272-0008/0
+|
+|
+|-
+| style='height: 20px;'| 2322-0027/0
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+| style='height: 20px;'| be
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+| style='height: 20px;'| be-bru
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Watermaal-Bosvoorde
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Etterbeek
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Schaarbeek
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Geheel van neoclassicistische huizen
+|
+|
+|-
+| style='height: 20px;'| Eclectisch herenhuis
+|
+|
+|-
+| style='height: 20px;'| Kasteel van de Drij Borren
+|
+|
+|-
+| style='height: 20px;'| Vijvers van Bosvoorde (met Tournay-Solvaypark en Internationale school)
+|
+|
+|-
+| style='height: 20px;'| Gebouw Van Ooteghem
+|
+|
+|-
+| style='height: 20px;'| Het Kleermakershuis
+|
+|
+|-
+| style='height: 20px;'| Zilverlinde (Tilia tomentosa)
+|
+|
+|-
+| style='height: 20px;'| Voormalige Brouwerij Wielemans-Ceuppens - kantoorgebouw ([[Wiels (centrum voor hedendaagse kunst)|Wiels]])
+|
+|
+|-
+| style='height: 20px;'| Traditioneel huis
+|
+|
+|-
+| style='height: 20px;'| Rode beuk (Fagus sylvatica f. purpurea)
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| GRASMARKT 82 - 84
+|
+|
+|-
+| style='height: 20px;'| DAPPERHEIDSPLEIN 0
+|
+|
+|-
+| style='height: 20px;'| VOGLERSTRAAT 17 A - 17
+|
+|
+|-
+| style='height: 20px;'| GEORGES MOREAUSTRAAT 170
+|
+|
+|-
+| style='height: 20px;'| MOENSBERG 0 , OUDE WEG 0
+|
+|
+|-
+| style='height: 20px;'| JOSEPH DUPONTSTRAAT 2 , REGENTSCHAPSSTRAAT 32
+|
+|
+|-
+| style='height: 20px;'| AARLENSTRAAT 63 - 67
+|
+|
+|-
+| style='height: 20px;'| GROOTGODSHUISSTRAAT 0
+|
+|
+|-
+| style='height: 20px;'| AMERIKASTRAAT 23 - 25
+|
+|
+|-
+| style='height: 20px;'| BEENHOUWERSSTRAAT 34
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Evere
+|
+|
+|-
+| style='height: 20px;'| Watermaal-Bosvoorde
+|
+|
+|-
+| style='height: 20px;'| Ukkel
+|
+|
+|-
+| style='height: 20px;'| Schaarbeek
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Schaarbeek
+|
+|
+|-
+| style='height: 20px;'| Sint-Lambrechts-Woluwe
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+| style='height: 20px;'| Brussel
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Kleine Dalstraat 24 en 26.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Voormalig onderstation van de elektriciteitscentrale aan de Slachthuislaan te Brussel..jpg
+|
+|
+|-
+| style='height: 20px;'| Rue de l'Etuve 63 Stoofstraat Brussels 2011-09.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Théatre du Vaudeville - Bruxelles - 2043-0338-0.JPG
+|
+|
+|-
+| style='height: 20px;'| Eglise Saint-Clément de Watermael-Boitsfort - 01.JPG
+|
+|
+|-
+| style='height: 20px;'| 0 Robinia pseudoacacia - Laeken.JPG
+|
+|
+|-
+| style='height: 20px;'| Bruxelles place de la Vieille halle aux Blés 901.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Brussel&oldid=46839238
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Sint-Pieters-Woluwe&oldid=39180720
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Brussel&oldid=46839238
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Anderlecht&oldid=46652086
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Brussel&oldid=46839238
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Sint-Joost-ten-Node&oldid=44058600
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Sint-Gillis&oldid=43941303
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Sint-Pieters-Woluwe&oldid=39180720
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Watermaal-Bosvoorde&oldid=44874990
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_beschermd_onroerend_erfgoed_in_Watermaal-Bosvoorde&oldid=44874990
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Square_Armand_Steurs
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Theater_La_Gaîté
+|
+|
+|-
+| style='height: 20px;'| Warandepark#Enkele_gebouwen_en_gedenktekens
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ be-bru-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

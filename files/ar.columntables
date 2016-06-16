@@ -1,0 +1,687 @@
+= Non-standardized fields from country ar in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 615
+|
+|
+|-
+| style='height: 20px;'| B038
+|
+|
+|-
+| style='height: 20px;'| 089
+|
+|
+|-
+| style='height: 20px;'| R002
+|
+|
+|-
+| style='height: 20px;'| 069
+|
+|
+|-
+| style='height: 20px;'| C707
+|
+|
+|-
+| style='height: 20px;'| B226
+|
+|
+|-
+| style='height: 20px;'| 640
+|
+|
+|-
+| style='height: 20px;'| 604
+|
+|
+|-
+| style='height: 20px;'| 453
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+| style='height: 20px;'| ar
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ar-m
+|
+|
+|-
+| style='height: 20px;'| ar-r
+|
+|
+|-
+| style='height: 20px;'| ar-b
+|
+|
+|-
+| style='height: 20px;'| ar-m
+|
+|
+|-
+| style='height: 20px;'| ar-e
+|
+|
+|-
+| style='height: 20px;'| ar-e
+|
+|
+|-
+| style='height: 20px;'| ar-s
+|
+|
+|-
+| style='height: 20px;'| ar-b
+|
+|
+|-
+| style='height: 20px;'| ar-c
+|
+|
+|-
+| style='height: 20px;'| ar-c
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Departamento Chamical|Chamical]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento Cachi|Cachi]]
+|
+|
+|-
+| style='height: 20px;'| [[Partido de Tornquist|Tornquist]]
+|
+|
+|-
+| style='height: 20px;'| [[Partido de Pergamino|Pergamino]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento Metán|Metán]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento General Güemes (Salta)|General Güemes]]
+|
+|
+|-
+| style='height: 20px;'| [[Partido de Tigre|Tigre]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Ciudad de Mendoza|Mendoza]]
+|
+|
+|-
+| style='height: 20px;'| [[San Miguel de Tucumán]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Ushuaia]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Paraná (Argentina)|Paraná]]
+|
+|
+|-
+| style='height: 20px;'| [[Posadas]]
+|
+|
+|-
+| style='height: 20px;'| [[San Miguel de Tucumán]]
+|
+|
+|-
+| style='height: 20px;'| [[Saavedra (Buenos Aires)|Saavedra]]
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Teatro Español de Pehuajó
+|
+|
+|-
+| style='height: 20px;'| Regimiento de Infantería 1 Patricios
+|
+|
+|-
+| style='height: 20px;'| Tonel artístico del Centenario
+|
+|
+|-
+| style='height: 20px;'| Cabildo de la Ciudad de San Luis
+|
+|
+|-
+| style='height: 20px;'| Campo de la Batalla de Salta
+|
+|
+|-
+| style='height: 20px;'| Calle Nueva York
+|
+|
+|-
+| style='height: 20px;'| Estancia Jesuítica de La Banda
+|
+|
+|-
+| style='height: 20px;'| Homenaje al Brigadier General Cornelio Saavedra
+|
+|
+|-
+| style='height: 20px;'| Estación Punta Lara del Ferrocarril Roca
+|
+|
+|-
+| style='height: 20px;'| Escuela Rivadavia
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Cementerio del Oeste
+|
+|
+|-
+| style='height: 20px;'| Av. Antártida Argentina Nº 1355
+|
+|
+|-
+| style='height: 20px;'| Dentro del límite del Cuartel 6.º . Por Ruta 6, a 5 Km de la intersección con la Ruta Provincial N.º 205
+|
+|
+|-
+| style='height: 20px;'| Laprida 854
+|
+|
+|-
+| style='height: 20px;'| Circ. XI.. Parcelas rurales N.ª 1106 y 1107
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| [[Cementerio de la Recoleta]]
+|
+|
+|-
+| style='height: 20px;'| 24 de Septiembre 319
+|
+|
+|-
+| style='height: 20px;'| [[Cementerio de Chacarita|Cementerio de la Chacarita]]
+|
+|
+|-
+| style='height: 20px;'| Muñecas 219
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Partido de Morón|Morón]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento de Ushuaia|Ushuaia]]
+|
+|
+|-
+| style='height: 20px;'| [[Buenos Aires|C.A. Buenos Aires]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento de Tumbaya|Tumbaya]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento Oberá|Oberá]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento San Cristóbal|San Cristóbal]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento Capital (Santiago del Estero)|Capital]]
+|
+|
+|-
+| style='height: 20px;'| [[Departamento Maipú (Mendoza)|Maipú]]
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Catedral-posadas.JPG
+|
+|
+|-
+| style='height: 20px;'| WLM2013 PalasAtenea-PL (1).JPG
+|
+|
+|-
+| style='height: 20px;'| Molino de Rufino Ortega.jpg
+|
+|
+|-
+| style='height: 20px;'| Liberarte.JPG
+|
+|
+|-
+| style='height: 20px;'| Homenaje al Dr. Emilio Mitre.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 04-Columna.JPG
+|
+|
+|-
+| style='height: 20px;'| Cafe La Paz.JPG
+|
+|
+|-
+| style='height: 20px;'| Casa de Estudios para Artistas.JPG
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_la_Provincia_de_Santa_Fe&oldid=90108207
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3ABienes_de_Inter%C3%A9s_Cultural_de_la_Ciudad_de_Buenos_Aires&oldid=84227379
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_la_Provincia_de_Entre_R%C3%ADos&oldid=83440947
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_provinciales_de_la_Provincia_de_Buenos_Aires&oldid=90542940
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_la_Provincia_de_Jujuy&oldid=75425257
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_provinciales_de_la_Provincia_de_Buenos_Aires&oldid=90542940
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_la_Provincia_de_San_Juan&oldid=72208116
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_provinciales_de_la_Provincia_de_Buenos_Aires&oldid=90542940
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_la_Provincia_de_Buenos_Aires&oldid=91416179
+|
+|
+|-
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_la_Provincia_de_Santa_Fe&oldid=90108207
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Pedro Alcántara de Somellera
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Camino Real (Sudamérica)
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ ar-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=496
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=C088
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=691
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=B053
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=476
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=098
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=B258
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=T-1-065
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=B-4-005
+|
+|
+|-
+| style='height: 20px;'| http://www.monumentosysitios.gov.ar/ficha.php?idMonumento=B123
+|
+|
+|-
+|}

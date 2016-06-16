@@ -1,0 +1,687 @@
+= Non-standardized fields from country np in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| NP-SVDC-02
+|
+|
+|-
+| style='height: 20px;'| NP-SIR-01
+|
+|
+|-
+| style='height: 20px;'| NP-GK-03
+|
+|
+|-
+| style='height: 20px;'| NP-TH-07
+|
+|
+|-
+| style='height: 20px;'| NP-BT-72
+|
+|
+|-
+| style='height: 20px;'| NP-KMC16-27
+|
+|
+|-
+| style='height: 20px;'| NP-RH-04
+|
+|
+|-
+| style='height: 20px;'| NP-TKVDC-03
+|
+|
+|-
+| style='height: 20px;'| NP-PAN-02
+|
+|
+|-
+| style='height: 20px;'| NP-PAN-03
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+| style='height: 20px;'| np
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-1
+|
+|
+|-
+| style='height: 20px;'| np-1
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-1
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-1
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-1
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| np-ba
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-ba
+|
+|
+|-
+| style='height: 20px;'| np-ba
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-ba
+|
+|
+|-
+| style='height: 20px;'| np-ba
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| np-ba
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Shivalinga
+|
+|
+|-
+| style='height: 20px;'| Sobha Bhagawati Temple
+|
+|
+|-
+| style='height: 20px;'| Kageshwor
+|
+|
+|-
+| style='height: 20px;'| Siddhartha Buddha
+|
+|
+|-
+| style='height: 20px;'| Ganesh Murthi
+|
+|
+|-
+| style='height: 20px;'| Chandra Vinayak Sattal
+|
+|
+|-
+| style='height: 20px;'| Dhanush Saagar
+|
+|
+|-
+| style='height: 20px;'| Kotilingeswor Temple
+|
+|
+|-
+| style='height: 20px;'| Maneparkhal Ghami
+|
+|
+|-
+| style='height: 20px;'| Bijayaram Vihar
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Kathmandu Metropolis-13
+|
+|
+|-
+| style='height: 20px;'| Kathmandu Metropolis-18
+|
+|
+|-
+| style='height: 20px;'| Lalitpur Sub-Metropolis
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Bhaktapur Municipality
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Gothatar VDC Ward No-4
+|
+|
+|-
+| style='height: 20px;'| Kathmandu Metropolis-20
+|
+|
+|-
+| style='height: 20px;'| Bhaktapur Municipality
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Lalitpur
+|
+|
+|-
+| style='height: 20px;'| Bhaktapur
+|
+|
+|-
+| style='height: 20px;'| Rukum
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Kathmandu
+|
+|
+|-
+| style='height: 20px;'| Dhankuta
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Big drum at Basantapur Durbar Area (NP-KHP-14).JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Taleju Temple - Patan by ST (1).JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Kasthamandap, Kathmandu
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Metropolis_15%2C_Kathmandu&oldid=647112072
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Mulpani%2C_Kathmandu&oldid=571542426
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Chhaimale%2C_Kathmandu&oldid=571542352
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Myagdi%2C_Nepal&oldid=572009687
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Manamaiju%2C_Kathmandu&oldid=611810743
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Mustang%2C_Nepal&oldid=649257021
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Sindhuli%2C_Nepal&oldid=683790871
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Bhaktapur%2C_Nepal&oldid=649232162
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Gagalphedi%2C_Kathmandu&oldid=571542412
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Wikipedia%3AList_of_Monuments_in_Satungal%2C_Kathmandu&oldid=649234226
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ np-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| NP-BAVDC-63
+|
+|
+|-
+| style='height: 20px;'| NP-BT-55
+|
+|
+|-
+| style='height: 20px;'| NP-GPVDC-03
+|
+|
+|-
+| style='height: 20px;'| NP-DOL-15
+|
+|
+|-
+| style='height: 20px;'| NP-BT-151
+|
+|
+|-
+| style='height: 20px;'| NP-KMC16-17
+|
+|
+|-
+| style='height: 20px;'| NP-BAVDC-49
+|
+|
+|-
+| style='height: 20px;'| NP-SAP-12
+|
+|
+|-
+| style='height: 20px;'| NP-SVDC-05
+|
+|
+|-
+| style='height: 20px;'| NP-KMC11-34
+|
+|
+|-
+|}

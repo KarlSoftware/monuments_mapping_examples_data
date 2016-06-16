@@ -1,0 +1,687 @@
+= Non-standardized fields from country za in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 9/2/018/0117
+|
+|
+|-
+| style='height: 20px;'| 9/2/069/0014
+|
+|
+|-
+| style='height: 20px;'| 9/2/092/0029/1
+|
+|
+|-
+| style='height: 20px;'| 9/2/084/0165
+|
+|
+|-
+| style='height: 20px;'| 9/2/033/0002-342
+|
+|
+|-
+| style='height: 20px;'| 9/2/102/0014
+|
+|
+|-
+| style='height: 20px;'| 9/2/317/0001
+|
+|
+|-
+| style='height: 20px;'| 9/2/033/0002-414
+|
+|
+|-
+| style='height: 20px;'| 9/2/312/0007
+|
+|
+|-
+| style='height: 20px;'| 9/2/030/0034-002
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+| style='height: 20px;'| za
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| za-wc
+|
+|
+|-
+| style='height: 20px;'| za-zn
+|
+|
+|-
+| style='height: 20px;'| za-ec
+|
+|
+|-
+| style='height: 20px;'| za-nc
+|
+|
+|-
+| style='height: 20px;'| za-wc
+|
+|
+|-
+| style='height: 20px;'| za-wc
+|
+|
+|-
+| style='height: 20px;'| za-ec
+|
+|
+|-
+| style='height: 20px;'| za-wc
+|
+|
+|-
+| style='height: 20px;'| za-zn
+|
+|
+|-
+| style='height: 20px;'| za-nc
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| The Cape
+|
+|
+|-
+| style='height: 20px;'| Frankfort
+|
+|
+|-
+| style='height: 20px;'| Malmesbury
+|
+|
+|-
+| style='height: 20px;'| The Cape
+|
+|
+|-
+| style='height: 20px;'| Knysna
+|
+|
+|-
+| style='height: 20px;'| Kimberley
+|
+|
+|-
+| style='height: 20px;'| Wynberg
+|
+|
+|-
+| style='height: 20px;'| Knysna
+|
+|
+|-
+| style='height: 20px;'| Underberg
+|
+|
+|-
+| style='height: 20px;'| The Cape
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Cape Town, Wynberg
+|
+|
+|-
+| style='height: 20px;'| Durban, Greyville
+|
+|
+|-
+| style='height: 20px;'| Calvinia
+|
+|
+|-
+| style='height: 20px;'| Vosburg
+|
+|
+|-
+| style='height: 20px;'| Pietermaritzburg, Central
+|
+|
+|-
+| style='height: 20px;'| Lindley
+|
+|
+|-
+| style='height: 20px;'| Tulbagh
+|
+|
+|-
+| style='height: 20px;'| Fort Beaufort
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Plettenberg Bay
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Fountain Villa, Hendrik Potgieter Street, Klerksdorp
+|
+|
+|-
+| style='height: 20px;'| The Attic, 33 Langenhoven Street, George
+|
+|
+|-
+| style='height: 20px;'| ZOAR LOCAL AREA
+|
+|
+|-
+| style='height: 20px;'| Krugerskraal, Tygerfontein, Potchefstroom District
+|
+|
+|-
+| style='height: 20px;'| Rhyneveldt Street, Hanover
+|
+|
+|-
+| style='height: 20px;'| Bredasdorp Museum, Independent Street, Bredasdorp
+|
+|
+|-
+| style='height: 20px;'| St Michael and All Angels Church, Plein Street, Boksburg
+|
+|
+|-
+| style='height: 20px;'| Evangelical Lutheran Church, Haarlem
+|
+|
+|-
+| style='height: 20px;'| Block bounded by Ebenezer, Prestwitch, Liddle & Somerset Roads
+|
+|
+|-
+| style='height: 20px;'| Schoonzicht, 204 Main Road, Kalk Bay, Cape Town
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| St. Marks Anglican Cathedral Cemetery
+|
+|
+|-
+| style='height: 20px;'| PRINCE ALBERT MAGISTERIAL DISTRICT, GENERAL
+|
+|
+|-
+| style='height: 20px;'| War Department Lords' Ground Boundary Marker No 2, Old Fort Road, Durban
+|
+|
+|-
+| style='height: 20px;'| Erf 644, Voortrekker Street, McGregor
+|
+|
+|-
+| style='height: 20px;'| Garages, Erf 16, Off Portwood Road, Victoria and Alfred Waterfront,
+|
+|
+|-
+| style='height: 20px;'| 83 Church Street, Graaff-Reinet
+|
+|
+|-
+| style='height: 20px;'| 40 Loop Street, Richmond
+|
+|
+|-
+| style='height: 20px;'| Saailaer, Farm Zaay Lager 1199, Estcourt District
+|
+|
+|-
+| style='height: 20px;'| 511 Main Street, Paarl
+|
+|
+|-
+| style='height: 20px;'| Ruins of Fort Ahrens, Farm Perseverence 1324, Hermannsburg
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Colesberg
+|
+|
+|-
+| style='height: 20px;'| Potchefstroom
+|
+|
+|-
+| style='height: 20px;'| Pietermaritzburg, Prestbury
+|
+|
+|-
+| style='height: 20px;'| Clanwilliam
+|
+|
+|-
+| style='height: 20px;'| Kimberley, Belgravia
+|
+|
+|-
+| style='height: 20px;'| Pretoria, Irene
+|
+|
+|-
+| style='height: 20px;'| Gansbaai
+|
+|
+|-
+| style='height: 20px;'| Smithfield
+|
+|
+|-
+| style='height: 20px;'| Petrus Steyn
+|
+|
+|-
+| style='height: 20px;'| Franschhoek
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Geelbek.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Rust en Vreugd. Buitenkant St, Cape Town..JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Pentecost Protestant Church-Brakpan-011.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Memorial Tower Bright Night.jpg
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Swellendam_and_Riversdale&oldid=686483801
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Gauteng&oldid=723314889
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_KwaZulu-Natal&oldid=717456867
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Paarl&oldid=683354112
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Free_State&oldid=722033435
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_the_Western_Cape_Province%2C_South_Africa&oldid=720600980
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Tulbagh&oldid=691736598
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Victoria_West&oldid=680737652
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Graaff-Reinet&oldid=711316954
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_heritage_sites_in_Swellendam_and_Riversdale&oldid=686483801
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ za-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

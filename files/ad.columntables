@@ -1,0 +1,687 @@
+= Non-standardized fields from country ad in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 96
+|
+|
+|-
+| style='height: 20px;'| 22
+|
+|
+|-
+| style='height: 20px;'| 112
+|
+|
+|-
+| style='height: 20px;'| 92
+|
+|
+|-
+| style='height: 20px;'| 116
+|
+|
+|-
+| style='height: 20px;'| 100
+|
+|
+|-
+| style='height: 20px;'| 120
+|
+|
+|-
+| style='height: 20px;'| 63
+|
+|
+|-
+| style='height: 20px;'| 58
+|
+|
+|-
+| style='height: 20px;'| 56
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+| style='height: 20px;'| ad
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ad-04
+|
+|
+|-
+| style='height: 20px;'| ad-08
+|
+|
+|-
+| style='height: 20px;'| ad-07
+|
+|
+|-
+| style='height: 20px;'| ad-02
+|
+|
+|-
+| style='height: 20px;'| ad-05
+|
+|
+|-
+| style='height: 20px;'| ad-03
+|
+|
+|-
+| style='height: 20px;'| ad-04
+|
+|
+|-
+| style='height: 20px;'| ad-06
+|
+|
+|-
+| style='height: 20px;'| ad-02
+|
+|
+|-
+| style='height: 20px;'| ad-06
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Casa Palmitjavila (Escaldes-Engordany)
+|
+|
+|-
+| style='height: 20px;'| Presa d'Engolasters (Encamp)
+|
+|
+|-
+| style='height: 20px;'| Antiga Vegueria Francesa (Andorra la Vella)
+|
+|
+|-
+| style='height: 20px;'| Central auxiliar de FHASA (Encamp)
+|
+|
+|-
+| style='height: 20px;'| Hotel Rosaleda (Encamp)
+|
+|
+|-
+| style='height: 20px;'| Presa i caseta del guarda de Ràmio (Escaldes-Engordany)
+|
+|
+|-
+| style='height: 20px;'| Església de Sant Miquel d'Engolasters
+|
+|
+|-
+| style='height: 20px;'| Garatge i cinema Valira (Escaldes)
+|
+|
+|-
+| style='height: 20px;'| Casa Vidal (Escaldes-Engordany)
+|
+|
+|-
+| style='height: 20px;'| Casa de la Vall
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| pl. del Poble, l'Aldosa
+|
+|
+|-
+| style='height: 20px;'| c. d'Engordany, 15
+|
+|
+|-
+| style='height: 20px;'| Av. Miquel i Mateu, s/n
+|
+|
+|-
+| style='height: 20px;'| c. de les escoles
+|
+|
+|-
+| style='height: 20px;'| c. de Sant Andreu
+|
+|
+|-
+| style='height: 20px;'| cementiri d'Encamp
+|
+|
+|-
+| style='height: 20px;'| avinguda Carlemany, 30. Escaldes
+|
+|
+|-
+| style='height: 20px;'| els Vilars
+|
+|
+|-
+| style='height: 20px;'| Aubinyà
+|
+|
+|-
+| style='height: 20px;'| Av. de les Escoles, 27
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Escaldes-Engordany
+|
+|
+|-
+| style='height: 20px;'| Escaldes-Engordany
+|
+|
+|-
+| style='height: 20px;'| Escaldes-Engordany
+|
+|
+|-
+| style='height: 20px;'| Escaldes-Engordany
+|
+|
+|-
+| style='height: 20px;'| Escaldes-Engordany
+|
+|
+|-
+| style='height: 20px;'| Encamp
+|
+|
+|-
+| style='height: 20px;'| Ordino
+|
+|
+|-
+| style='height: 20px;'| Sant Julià de Lòria
+|
+|
+|-
+| style='height: 20px;'| Encamp
+|
+|
+|-
+| style='height: 20px;'| Canillo
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Església de Sant Serni de Canillo - 20.jpg
+|
+|
+|-
+| style='height: 20px;'| Església de Sant Martí de la Cortinada - 10.jpg
+|
+|
+|-
+| style='height: 20px;'| Església de Sant Marc i Santa Maria (Encamp) - 2.jpg
+|
+|
+|-
+| style='height: 20px;'| Santuari vell de Meritxell - 1.jpg
+|
+|
+|-
+| style='height: 20px;'| Hotel Carlemany WLM Photowalk 3.JPG
+|
+|
+|-
+| style='height: 20px;'| Santa Barbara d'Ordino3.jpg
+|
+|
+|-
+| style='height: 20px;'| Habitatges de FHASA.jpg
+|
+|
+|-
+| style='height: 20px;'| Església de Sant Romà de Vila - 6.jpg
+|
+|
+|-
+| style='height: 20px;'| Hotel Valira WLM Photowalk 3.JPG
+|
+|
+|-
+| style='height: 20px;'| Cal Ribot.jpg
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Terminal del funicular d'Engolasters i casa del guarda
+|
+|
+|-
+| style='height: 20px;'| Col·legi Sagrada Família, Escaldes-Engordany
+|
+|
+|-
+| style='height: 20px;'| Casa dels Russos
+|
+|
+|-
+| style='height: 20px;'| Pont d'Anyós
+|
+|
+|-
+| style='height: 20px;'| Escaldes Hydroelectric Power Station
+|
+|
+|-
+| style='height: 20px;'| Museu Casa Rull
+|
+|
+|-
+| style='height: 20px;'| Colomer de Cotxa
+|
+|
+|-
+| style='height: 20px;'| Hotel Carlemany
+|
+|
+|-
+| style='height: 20px;'| Sant Miquel d'Engolasters
+|
+|
+|-
+| style='height: 20px;'| Sant Miquel de Prats
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+| style='height: 20px;'| //ca.wikipedia.org/w/index.php?title=Llista_de_monuments_d%27Andorra&oldid=16261233
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Sant_Joan_de_Caselles
+|
+|
+|-
+| style='height: 20px;'| Cal_Pal
+|
+|
+|-
+| style='height: 20px;'| Casa_de_la_Vall
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Casa_d'Areny-Plandolit
+|
+|
+|-
+| style='height: 20px;'| Sant_Bartomeu_de_Soldeu
+|
+|
+|-
+| style='height: 20px;'| Cal_Pal
+|
+|
+|-
+| style='height: 20px;'| Sant_Martí_de_Nagol
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Sant_Esteve_d'Andorra_la_Vella
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ ad-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=95
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=97
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=89
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=116
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=120
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=64
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=34
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=65
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=24
+|
+|
+|-
+| style='height: 20px;'| http://www.patrimonicultural.ad/banc/article.php?id=56
+|
+|
+|-
+|}

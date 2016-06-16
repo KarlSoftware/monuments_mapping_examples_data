@@ -1,49 +1,49 @@
-= Non-standardized fields from country tn in monuments_all =
+= Non-standardized fields from country nl-aw in monuments_all =
 == 10 random samples from field id ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-id 10 random samples
+|+ nl-aw-id 10 random samples
 ! scope='col' style='width: 225px;' |id
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 34-79
+| style='height: 20px;'| 02-001
 |
 |
 |-
-| style='height: 20px;'| 34-1
+| style='height: 20px;'| 01-003
 |
 |
 |-
-| style='height: 20px;'| 41-69
+| style='height: 20px;'| 01-018
 |
 |
 |-
-| style='height: 20px;'| 82-23
+| style='height: 20px;'| 03-001
 |
 |
 |-
-| style='height: 20px;'| 42-2
+| style='height: 20px;'| 02-001
 |
 |
 |-
-| style='height: 20px;'| 34-59
+| style='height: 20px;'| 01-022
 |
 |
 |-
-| style='height: 20px;'| 42-51
+| style='height: 20px;'| 01-022
 |
 |
 |-
-| style='height: 20px;'| 11-4
+| style='height: 20px;'| 01-005
 |
 |
 |-
-| style='height: 20px;'| 71-10
+| style='height: 20px;'| 04-003
 |
 |
 |-
-| style='height: 20px;'| 33-31
+| style='height: 20px;'| 01-007
 |
 |
 |-
@@ -51,48 +51,48 @@
 == 10 random samples from field adm0 ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-adm0 10 random samples
+|+ nl-aw-adm0 10 random samples
 ! scope='col' style='width: 225px;' |adm0
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
-| style='height: 20px;'| tn
+| style='height: 20px;'| nl
 |
 |
 |-
@@ -100,48 +100,48 @@
 == 10 random samples from field adm1 ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-adm1 10 random samples
+|+ nl-aw-adm1 10 random samples
 ! scope='col' style='width: 225px;' |adm1
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| tn-31
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-31
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-11
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-31
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-11
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-33
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-42
+| style='height: 20px;'| nl-aw
 |
 |
 |-
-| style='height: 20px;'| tn-41
+| style='height: 20px;'| nl-aw
 |
 |
 |-
@@ -149,48 +149,48 @@
 == 10 random samples from field adm2 ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-adm2 10 random samples
+|+ nl-aw-adm2 10 random samples
 ! scope='col' style='width: 225px;' |adm2
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Thuburbo Majus|Henchir Kasbat]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Djebba]]
+| style='height: 20px;'| [[Oranjestad (Aruba)|Oranjestad]]
 |
 |
 |-
-| style='height: 20px;'| [[Haïdra]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Thuburbo Majus|Henchir Kasbat]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| Rhiria
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Musti|Henchir el-Krib]]
+| style='height: 20px;'| Noord
 |
 |
 |-
-| style='height: 20px;'| Henchir Kbar el-Ghoul
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Dougga]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| Henchir el-Ksar
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Oudna]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
@@ -198,7 +198,7 @@
 == 10 random samples from field adm3 ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-adm3 10 random samples
+|+ nl-aw-adm3 10 random samples
 ! scope='col' style='width: 225px;' |adm3
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -247,7 +247,7 @@
 == 10 random samples from field adm4 ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-adm4 10 random samples
+|+ nl-aw-adm4 10 random samples
 ! scope='col' style='width: 225px;' |adm4
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -296,48 +296,48 @@
 == 10 random samples from field name ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-name 10 random samples
+|+ nl-aw-name 10 random samples
 ! scope='col' style='width: 225px;' |name
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Crypte funéraire située au sud-ouest de la basilique chrétienne
+| style='height: 20px;'| Ex Dow Office
 |
 |
 |-
-| style='height: 20px;'| Murs extérieurs de la Kasba
+| style='height: 20px;'| School uit het jaar 1888
 |
 |
 |-
-| style='height: 20px;'| Ksar carré
+| style='height: 20px;'| Graves
 |
 |
 |-
-| style='height: 20px;'| [[Amphithéâtre de Carthage|Amphithéâtre romain]]
+| style='height: 20px;'| Wild House
 |
 |
 |-
-| style='height: 20px;'| Mégalithes
+| style='height: 20px;'| Commanders Graves
 |
 |
 |-
-| style='height: 20px;'| Église en forme de trèfle, autrefois pavée de mosaïques
+| style='height: 20px;'| Stadskunukuhuis
 |
 |
 |-
-| style='height: 20px;'| Mausolée octogonal
+| style='height: 20px;'| Watertower San Nicolas
 |
 |
 |-
-| style='height: 20px;'| Thermes
+| style='height: 20px;'| Imeldahof
 |
 |
 |-
-| style='height: 20px;'| Citernes
+| style='height: 20px;'| Other Monuments, Category 2
 |
 |
 |-
-| style='height: 20px;'| Fortin près de la source
+| style='height: 20px;'| 2nd DOW Office
 |
 |
 |-
@@ -345,7 +345,7 @@
 == 10 random samples from field address ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-address 10 random samples
+|+ nl-aw-address 10 random samples
 ! scope='col' style='width: 225px;' |address
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -354,39 +354,39 @@
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| J.G. Emanstraat 67
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Stadionweg 37/ L.G.Smith Blvd
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Savaneta 254 E
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Savaneta 254 E
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| A.M. Schuttestraat 2
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Arendstraat(Rancho)
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Hato
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Oranjestraat/Zoutmanstraat
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Schelpstraat 36/38
 |
 |
 |-
@@ -394,48 +394,48 @@
 == 10 random samples from field municipality ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-municipality 10 random samples
+|+ nl-aw-municipality 10 random samples
 ! scope='col' style='width: 225px;' |municipality
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Henchir Stah
+| style='height: 20px;'| [[Sint Nicolaas (Aruba)|Sint Nicolaas]]
 |
 |
 |-
-| style='height: 20px;'| Henchir Bir Oum Ali
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Site archéologique de Makthar|Makthar]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Carthage]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[El Hencha|Henchir Rougga]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| Henchir el-Hamima
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Téboursouk]]
+| style='height: 20px;'| Noord
 |
 |
 |-
-| style='height: 20px;'| Ouled-el-Hadj
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| [[Tunis]]
+| style='height: 20px;'| Oranjestad
 |
 |
 |-
-| style='height: 20px;'| El Battoum
+| style='height: 20px;'| San Nicolaas
 |
 |
 |-
@@ -443,32 +443,20 @@
 == 10 random samples from field image ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-image 10 random samples
+|+ nl-aw-image 10 random samples
 ! scope='col' style='width: 225px;' |image
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| The Capital at Dougga (VII) - isawnyu.jpg
-|
-|
-|-
-| style='height: 20px;'| Aqueduc souterrain endomagé suite travaux de construction.JPG
-|
-|
-|-
 | style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Censo, Ex Hotel Colombia, Oranjestad, ARUBA.JPG
 |
 |
 |-
-| style='height: 20px;'| Zaouïa Sidi Cheïra 02.jpg
-|
-|
-|-
-| style='height: 20px;'| Ezeram Facade.jpg
+| style='height: 20px;'| Bashnya Villema 3.jpg
 |
 |
 |-
@@ -485,6 +473,18 @@
 |
 |-
 | style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Henriquez Building (1), Oranjestad, ARUBA.JPG
 |
 |
 |-
@@ -492,20 +492,32 @@
 == 10 random samples from field commonscat ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-commonscat 10 random samples
+|+ nl-aw-commonscat 10 random samples
 ! scope='col' style='width: 225px;' |commonscat
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| National Library of Tunisia (Souk El Attarine)
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| El Arich Mosque
+| style='height: 20px;'| Noordwestpunt Lighthouse
 |
 |
 |-
-| style='height: 20px;'| Byzantine fortress of Ksar Lemsa
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Willem III Toren
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Willem III Toren
 |
 |
 |-
@@ -521,19 +533,7 @@
 |
 |
 |-
-| style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| Fort Santiago Chikly
-|
-|
-|-
-| style='height: 20px;'| 
+| style='height: 20px;'| Watertower San Nicolas
 |
 |
 |-
@@ -541,48 +541,48 @@
 == 10 random samples from field source ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-source 10 random samples
+|+ nl-aw-source 10 random samples
 ! scope='col' style='width: 225px;' |source
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Sidi_Bouzid&oldid=118333554
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Ben_Arous&oldid=119002553
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Kairouan&oldid=123379092
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Kairouan&oldid=123379092
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Kasserine&oldid=119003547
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Jendouba&oldid=123591654
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Sousse&oldid=118823715
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_monuments_of_Aruba&oldid=633796432
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Gab%C3%A8s&oldid=113199528
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_monumenten_op_Aruba&oldid=41067371
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Tunis&oldid=126055315
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_monumenten_op_Aruba&oldid=41067371
 |
 |
 |-
-| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_monuments_class%C3%A9s_du_gouvernorat_de_Kairouan&oldid=123379092
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_monumenten_op_Aruba&oldid=41067371
 |
 |
 |-
@@ -590,7 +590,7 @@
 == 10 random samples from field monument_article ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-monument_article 10 random samples
+|+ nl-aw-monument_article 10 random samples
 ! scope='col' style='width: 225px;' |monument_article
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -603,10 +603,6 @@
 |
 |
 |-
-| style='height: 20px;'| Dar_Othman
-|
-|
-|-
 | style='height: 20px;'| 
 |
 |
@@ -632,6 +628,10 @@
 |
 |-
 | style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| California_Lighthouse
 |
 |
 |-
@@ -639,48 +639,48 @@
 == 10 random samples from field registrant_url ==
 
 {| class="wikitable" style="width: 675px;
-|+ tn-registrant_url 10 random samples
+|+ nl-aw-registrant_url 10 random samples
 ! scope='col' style='width: 225px;' |registrant_url
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 11-51
+| style='height: 20px;'| 02-001
 |
 |
 |-
-| style='height: 20px;'| 61-4
+| style='height: 20px;'| 01-022
 |
 |
 |-
-| style='height: 20px;'| 11-65
+| style='height: 20px;'| 01-006
 |
 |
 |-
-| style='height: 20px;'| 34-33
+| style='height: 20px;'| 01-005
 |
 |
 |-
-| style='height: 20px;'| 32-39
+| style='height: 20px;'| 01-003
 |
 |
 |-
-| style='height: 20px;'| 42-53
+| style='height: 20px;'| 01-020
 |
 |
 |-
-| style='height: 20px;'| 43-5
+| style='height: 20px;'| 01-010
 |
 |
 |-
-| style='height: 20px;'| 73-4
+| style='height: 20px;'| 04-003
 |
 |
 |-
-| style='height: 20px;'| 22-21
+| style='height: 20px;'| 01-002
 |
 |
 |-
-| style='height: 20px;'| 11-139
+| style='height: 20px;'| 01-004
 |
 |
 |-

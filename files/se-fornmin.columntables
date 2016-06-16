@@ -1,49 +1,49 @@
-= Non-standardized fields from country no in monuments_all =
+= Non-standardized fields from country se-fornmin in monuments_all =
 == 10 random samples from field id ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-id 10 random samples
+|+ se-fornmin-id 10 random samples
 ! scope='col' style='width: 225px;' |id
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 144444
+| style='height: 20px;'| 10031001820001
 |
 |
 |-
-| style='height: 20px;'| 159293
+| style='height: 20px;'| 10086000140001
 |
 |
 |-
-| style='height: 20px;'| 95211
+| style='height: 20px;'| 10241500540001
 |
 |
 |-
-| style='height: 20px;'| 21646
+| style='height: 20px;'| 10229201520001
 |
 |
 |-
-| style='height: 20px;'| 102909
+| style='height: 20px;'| 10028402110001
 |
 |
 |-
-| style='height: 20px;'| 41632
+| style='height: 20px;'| 10230601730001
 |
 |
 |-
-| style='height: 20px;'| 100707
+| style='height: 20px;'| 10153901010002
 |
 |
 |-
-| style='height: 20px;'| 131839
+| style='height: 20px;'| 10057500030001
 |
 |
 |-
-| style='height: 20px;'| 130093
+| style='height: 20px;'| 10177700460001
 |
 |
 |-
-| style='height: 20px;'| 19300
+| style='height: 20px;'| 10038202900004
 |
 |
 |-
@@ -51,48 +51,48 @@
 == 10 random samples from field adm0 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm0 10 random samples
+|+ se-fornmin-adm0 10 random samples
 ! scope='col' style='width: 225px;' |adm0
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| se
 |
 |
 |-
@@ -100,48 +100,48 @@
 == 10 random samples from field adm1 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm1 10 random samples
+|+ se-fornmin-adm1 10 random samples
 ! scope='col' style='width: 225px;' |adm1
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no-05
+| style='height: 20px;'| se-d
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| se-s
 |
 |
 |-
-| style='height: 20px;'| no-01
+| style='height: 20px;'| se-m
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| se-u
 |
 |
 |-
-| style='height: 20px;'| no-21
+| style='height: 20px;'| se-h
 |
 |
 |-
-| style='height: 20px;'| no-19
+| style='height: 20px;'| se-ab
 |
 |
 |-
-| style='height: 20px;'| no-20
+| style='height: 20px;'| se-e
 |
 |
 |-
-| style='height: 20px;'| no-10
+| style='height: 20px;'| se-ab
 |
 |
 |-
-| style='height: 20px;'| no-18
+| style='height: 20px;'| se-f
 |
 |
 |-
-| style='height: 20px;'| no-06
+| style='height: 20px;'| se-o
 |
 |
 |-
@@ -149,48 +149,48 @@
 == 10 random samples from field adm2 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm2 10 random samples
+|+ se-fornmin-adm2 10 random samples
 ! scope='col' style='width: 225px;' |adm2
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| Vaggeryd
 |
 |
 |-
-| style='height: 20px;'| [[Vågå]]
+| style='height: 20px;'| Grästorp
 |
 |
 |-
-| style='height: 20px;'| [[Nordvest-Spitsbergen nasjonalpark]]
+| style='height: 20px;'| Eskilstuna
 |
 |
 |-
-| style='height: 20px;'| [[Surnadal]]
+| style='height: 20px;'| Gotland
 |
 |
 |-
-| style='height: 20px;'| [[Vikna]]
+| style='height: 20px;'| Färgelanda
 |
 |
 |-
-| style='height: 20px;'| [[Etnedal]]
+| style='height: 20px;'| Skara
 |
 |
 |-
-| style='height: 20px;'| [[Enebakk]]
+| style='height: 20px;'| Orust
 |
 |
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| Motala
 |
 |
 |-
-| style='height: 20px;'| [[Kongsvinger]]
+| style='height: 20px;'| Gotland
 |
 |
 |-
-| style='height: 20px;'| [[Våler (Hedmark)|Våler]]
+| style='height: 20px;'| Hudiksvall
 |
 |
 |-
@@ -198,7 +198,7 @@
 == 10 random samples from field adm3 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm3 10 random samples
+|+ se-fornmin-adm3 10 random samples
 ! scope='col' style='width: 225px;' |adm3
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -247,7 +247,7 @@
 == 10 random samples from field adm4 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm4 10 random samples
+|+ se-fornmin-adm4 10 random samples
 ! scope='col' style='width: 225px;' |adm4
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -296,48 +296,48 @@
 == 10 random samples from field name ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-name 10 random samples
+|+ se-fornmin-name 10 random samples
 ! scope='col' style='width: 225px;' |name
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Røylands kvednèhus
+| style='height: 20px;'|  (Östra Sönnarslöv 235:1, Hög)
 |
 |
 |-
-| style='height: 20px;'| Hjelmungen Øvre II
+| style='height: 20px;'|  (Färentuna 40:2, Stensättning)
 |
 |
 |-
-| style='height: 20px;'| Harildstad søndre, harildstad sørigard
+| style='height: 20px;'|  (Åryd 50:1, Stensättning)
 |
 |
 |-
-| style='height: 20px;'| Falkensten - Falkensten Bruk
+| style='height: 20px;'|  (Tumbo 26:1, Stensättning)
 |
 |
 |-
-| style='height: 20px;'| Veie kirkestad
+| style='height: 20px;'|  (Ölmevalla 66:1, Stensättning)
 |
 |
 |-
-| style='height: 20px;'| Indre Åsesvi
+| style='height: 20px;'|  (Grava 20:1, Hög)
 |
 |
 |-
-| style='height: 20px;'| Kjempesteinane
+| style='height: 20px;'|  (Köla 158:3, Stensättning)
 |
 |
 |-
-| style='height: 20px;'| Berkåk kirkested
+| style='height: 20px;'|  (Alunda 360:1, Hög)
 |
 |
 |-
-| style='height: 20px;'| Stemtjønnbekken
+| style='height: 20px;'|  (Skärkind 305:1, Stensättning)
 |
 |
 |-
-| style='height: 20px;'| Aldersund kirkested
+| style='height: 20px;'|  (Skön 99:1, Gravfält)
 |
 |
 |-
@@ -345,7 +345,7 @@
 == 10 random samples from field address ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-address 10 random samples
+|+ se-fornmin-address 10 random samples
 ! scope='col' style='width: 225px;' |address
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -382,7 +382,7 @@
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| [[Hågelby]]
 |
 |
 |-
@@ -394,48 +394,48 @@
 == 10 random samples from field municipality ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-municipality 10 random samples
+|+ se-fornmin-municipality 10 random samples
 ! scope='col' style='width: 225px;' |municipality
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Evje og Hornnes]]
+| style='height: 20px;'| Laholm
 |
 |
 |-
-| style='height: 20px;'| [[Tinn]]
+| style='height: 20px;'| Karlstad
 |
 |
 |-
-| style='height: 20px;'| [[Iveland]]
+| style='height: 20px;'| Gnesta
 |
 |
 |-
-| style='height: 20px;'| [[Karlsøy]]
+| style='height: 20px;'| Hedemora
 |
 |
 |-
-| style='height: 20px;'| [[Tjøme]]
+| style='height: 20px;'| Söderköping
 |
 |
 |-
-| style='height: 20px;'| [[Ullensvang]]
+| style='height: 20px;'| Norrtälje
 |
 |
 |-
-| style='height: 20px;'| [[Ibestad]]
+| style='height: 20px;'| Högsby
 |
 |
 |-
-| style='height: 20px;'| [[Re]]
+| style='height: 20px;'| Jönköping
 |
 |
 |-
-| style='height: 20px;'| [[Etne]]
+| style='height: 20px;'| Borgholm
 |
 |
 |-
-| style='height: 20px;'| [[Tingvoll]]
+| style='height: 20px;'| Trelleborg
 |
 |
 |-
@@ -443,15 +443,11 @@
 == 10 random samples from field image ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-image 10 random samples
+|+ se-fornmin-image 10 random samples
 ! scope='col' style='width: 225px;' |image
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Rødberg tåkeklokke.jpg
-|
-|
-|-
 | style='height: 20px;'| 
 |
 |
@@ -460,7 +456,11 @@
 |
 |
 |-
-| style='height: 20px;'| Gaupholmen, Aust-Agder - Riksantikvaren-T196 01 0127.jpg
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -492,7 +492,7 @@
 == 10 random samples from field commonscat ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-commonscat 10 random samples
+|+ se-fornmin-commonscat 10 random samples
 ! scope='col' style='width: 225px;' |commonscat
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -541,48 +541,48 @@
 == 10 random samples from field source ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-source 10 random samples
+|+ se-fornmin-source 10 random samples
 ! scope='col' style='width: 225px;' |source
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Vang&oldid=16260235
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_%C3%96ster%C3%A5kers_kommun&oldid=30632860
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_p%C3%A5_resten_av_Svalbard&oldid=16260302
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Lunds_kommun&oldid=30633157
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_%C3%98vre_Eiker&oldid=16260297
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Gislaveds_kommun&oldid=29976299
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Etnedal&oldid=16259893
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Varbergs_kommun_%28Rolfstorp%29&oldid=30548056
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Stenungsunds_kommun&oldid=29979490
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Kvalsund&oldid=16260004
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Kristianstads_kommun_%28%C3%96stersl%C3%B6v%29&oldid=29976574
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Notodden&oldid=16260093
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Falu_kommun&oldid=29976228
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Harstad&oldid=16259955
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Falk%C3%B6pings_kommun_%28Brunnhem%29&oldid=29976130
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Tinn&oldid=16260207
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Kristianstads_kommun_%28F%C3%A4rl%C3%B6v%29&oldid=29976555
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //sv.wikipedia.org/w/index.php?title=Lista_%C3%B6ver_fornl%C3%A4mningar_i_Eskilstuna_kommun_%28Eskilstuna%29&oldid=30621416
 |
 |
 |-
@@ -590,28 +590,16 @@
 == 10 random samples from field monument_article ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-monument_article 10 random samples
+|+ se-fornmin-monument_article 10 random samples
 ! scope='col' style='width: 225px;' |monument_article
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Kirkesnesmoen_kirkested
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| Kalvøya_(Djupsundet)
-|
-|
-|-
-| style='height: 20px;'| Gropstein_ved_Hansbu
-|
-|
-|-
-| style='height: 20px;'| Valle_(I+II)_-_Finnhågen
-|
-|
-|-
-| style='height: 20px;'| Tanum_kirke_(Bærum)
+| style='height: 20px;'| 
 |
 |
 |-
@@ -623,7 +611,7 @@
 |
 |
 |-
-| style='height: 20px;'| Ebeltofthamna,
+| style='height: 20px;'| 
 |
 |
 |-
@@ -631,7 +619,19 @@
 |
 |
 |-
-| style='height: 20px;'| Myklaberget
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -639,48 +639,48 @@
 == 10 random samples from field registrant_url ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-registrant_url 10 random samples
+|+ se-fornmin-registrant_url 10 random samples
 ! scope='col' style='width: 225px;' |registrant_url
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=83954
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10160003950001
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87441
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10079500270003
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=41600
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10190000610001
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=97168
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10153202090002
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=86030
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10215402680001
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=142558
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10028100390001
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=51904
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/12000000128849
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87244
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10002900390002
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=64209
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/12000000125677
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=138058
+| style='height: 20px;'| http://kulturarvsdata.se/raa/fmi/html/10243403320001
 |
 |
 |-

@@ -1,49 +1,49 @@
-= Non-standardized fields from country ch-old in monuments_all =
+= Non-standardized fields from country lu in monuments_all =
 == 10 random samples from field id ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-id 10 random samples
+|+ lu-id 10 random samples
 ! scope='col' style='width: 225px;' |id
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 9681
+| style='height: 20px;'| 64-1
 |
 |
 |-
-| style='height: 20px;'| 9702
+| style='height: 20px;'| 55-12-2
 |
 |
 |-
-| style='height: 20px;'| 6246
+| style='height: 20px;'| 2-1
 |
 |
 |-
-| style='height: 20px;'| 8092
+| style='height: 20px;'| 73-10
 |
 |
 |-
-| style='height: 20px;'| 5789
+| style='height: 20px;'| 106-1
 |
 |
 |-
-| style='height: 20px;'| 9041
+| style='height: 20px;'| 35-6
 |
 |
 |-
-| style='height: 20px;'| 11831
+| style='height: 20px;'| 37-1
 |
 |
 |-
-| style='height: 20px;'| 5203
+| style='height: 20px;'| 37-3
 |
 |
 |-
-| style='height: 20px;'| 6521
+| style='height: 20px;'| 55-12-9
 |
 |
 |-
-| style='height: 20px;'| 1451
+| style='height: 20px;'| 98-1
 |
 |
 |-
@@ -51,48 +51,48 @@
 == 10 random samples from field adm0 ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-adm0 10 random samples
+|+ lu-adm0 10 random samples
 ! scope='col' style='width: 225px;' |adm0
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
-| style='height: 20px;'| ch
+| style='height: 20px;'| lu
 |
 |
 |-
@@ -100,48 +100,48 @@
 == 10 random samples from field adm1 ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-adm1 10 random samples
+|+ lu-adm1 10 random samples
 ! scope='col' style='width: 225px;' |adm1
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| ch-gl
+| style='height: 20px;'| lu-l
 |
 |
 |-
-| style='height: 20px;'| ch-bs
+| style='height: 20px;'| lu-d
 |
 |
 |-
-| style='height: 20px;'| ch-ag
+| style='height: 20px;'| lu-l
 |
 |
 |-
-| style='height: 20px;'| ch-ge
+| style='height: 20px;'| lu-g
 |
 |
 |-
-| style='height: 20px;'| ch-ti
+| style='height: 20px;'| lu-l
 |
 |
 |-
-| style='height: 20px;'| ch-bs
+| style='height: 20px;'| lu-l
 |
 |
 |-
-| style='height: 20px;'| ch-vd
+| style='height: 20px;'| lu-g
 |
 |
 |-
-| style='height: 20px;'| ch-zg
+| style='height: 20px;'| lu-l
 |
 |
 |-
-| style='height: 20px;'| ch-vd
+| style='height: 20px;'| lu-l
 |
 |
 |-
-| style='height: 20px;'| ch-ag
+| style='height: 20px;'| lu-g
 |
 |
 |-
@@ -149,7 +149,7 @@
 == 10 random samples from field adm2 ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-adm2 10 random samples
+|+ lu-adm2 10 random samples
 ! scope='col' style='width: 225px;' |adm2
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -198,48 +198,48 @@
 == 10 random samples from field adm3 ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-adm3 10 random samples
+|+ lu-adm3 10 random samples
 ! scope='col' style='width: 225px;' |adm3
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Kaiserstuhl, Aargau
+| style='height: 20px;'| Platen
 |
 |
 |-
-| style='height: 20px;'| Basel
+| style='height: 20px;'| Nidderkuer
 |
 |
 |-
-| style='height: 20px;'| Cugnasco-Gerra
+| style='height: 20px;'| Réiden
 |
 |
 |-
-| style='height: 20px;'| Bellwald
+| style='height: 20px;'| Rammerech
 |
 |
 |-
-| style='height: 20px;'| Sainte-Croix
+| style='height: 20px;'| Stad Lëtzebuerg
 |
 |
 |-
-| style='height: 20px;'| Auw, Switzerland
+| style='height: 20px;'| Konter
 |
 |
 |-
-| style='height: 20px;'| Lausanne
+| style='height: 20px;'| Nidderfeelen
 |
 |
 |-
-| style='height: 20px;'| Merenschwand
+| style='height: 20px;'| Stad Lëtzebuerg
 |
 |
 |-
-| style='height: 20px;'| Basel
+| style='height: 20px;'| Helperknapp
 |
 |
 |-
-| style='height: 20px;'| Pully
+| style='height: 20px;'| Éinen
 |
 |
 |-
@@ -247,7 +247,7 @@
 == 10 random samples from field adm4 ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-adm4 10 random samples
+|+ lu-adm4 10 random samples
 ! scope='col' style='width: 225px;' |adm4
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -296,48 +296,48 @@
 == 10 random samples from field name ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-name 10 random samples
+|+ lu-name 10 random samples
 ! scope='col' style='width: 225px;' |name
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Maison Bastian
+| style='height: 20px;'| Haus
 |
 |
 |-
-| style='height: 20px;'| Maison du Bailli
+| style='height: 20px;'| Paart fir Kutsche vum Flesch-Haus
 |
 |
 |-
-| style='height: 20px;'| Former [[Cluny Abbey|Clunic]] [[Romainmôtier Abbey]]
+| style='height: 20px;'| Gebaier
 |
 |
 |-
-| style='height: 20px;'| Former ''Gasthaus'' (Combination Hotel and Restaurant) ''Rother Ochsen''
+| style='height: 20px;'| Wiss am Parc vun Iechternach, mat Terrainen dran, déi a Staatsbesëtz sinn
 |
 |
 |-
-| style='height: 20px;'| Church of S. Sisinio alla Torre
+| style='height: 20px;'| Ale Baurenhaff
 |
 |
 |-
-| style='height: 20px;'| [[Münster Schaffhausen|Church of St. Johann]]
+| style='height: 20px;'| Schlass-Haff, mat Annexen, Terrainen a Wise ronderëm
 |
 |
 |-
-| style='height: 20px;'| [[La Bâtiaz Castle]]
+| style='height: 20px;'| Haus
 |
 |
 |-
-| style='height: 20px;'| Quai et Hôtel des Bergues
+| style='height: 20px;'| Gebai
 |
 |
 |-
-| style='height: 20px;'| Former [[Cistercian]] Monastery
+| style='height: 20px;'| Schlass Schëndels mat dem Niewegebai an dem Park
 |
 |
 |-
-| style='height: 20px;'| Ruins of [[Alt-Wartburg Castle]]
+| style='height: 20px;'| Gebaier
 |
 |
 |-
@@ -345,48 +345,48 @@
 == 10 random samples from field address ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-address 10 random samples
+|+ lu-address 10 random samples
 ! scope='col' style='width: 225px;' |address
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| St Alban-Graben 16
+| style='height: 20px;'| Lieu-dit Schwaarzuecht: <br />Kadastersektioun A, Nr. 1699/3608 (Partie), 1722/3613 (Partie), 1723/3614 (Partie), 1725/3615 (Partie), 1774/4721 a 1794/4722; 1702/3609, 1703, 1756/4459, 1760/4877, 1760/4878, 1764/4875, 1770/3633 (Partie) a 1774/2613; 1719/
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| 18-20, rue de Saint-Hubert<br />Kadastersekt. HoE, -nr. 825/4699
 |
 |
 |-
-| style='height: 20px;'| Voltastrasse
+| style='height: 20px;'| 3, rue du Bois
 |
 |
 |-
-| style='height: 20px;'| Schulstrasse 38
+| style='height: 20px;'| Kadasterparzell:178/2228
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| 17, rue Goethe
 |
 |
 |-
-| style='height: 20px;'| Au Village 293
+| style='height: 20px;'| 1, rue de Junglinster
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Kadasterparzell Nr. 897/1696
 |
 |
 |-
-| style='height: 20px;'| Museumsstrasse 24
+| style='height: 20px;'| 2, Moellerdallerstrooss,<br />Kadastersekt.C, Nr.81/1160
 |
 |
 |-
-| style='height: 20px;'| Chemin de Goubing 24
+| style='height: 20px;'| 15, rue de l'Eau
 |
 |
 |-
-| style='height: 20px;'| Bernstrasse / Turmstrasse
+| style='height: 20px;'| Kadasterparzell: 183/614
 |
 |
 |-
@@ -394,48 +394,48 @@
 == 10 random samples from field municipality ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-municipality 10 random samples
+|+ lu-municipality 10 random samples
 ! scope='col' style='width: 225px;' |municipality
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Vaumarcus
+| style='height: 20px;'| Jonglënster
 |
 |
 |-
-| style='height: 20px;'| Brig-Glis
+| style='height: 20px;'| Käerch
 |
 |
 |-
-| style='height: 20px;'| Solothurn
+| style='height: 20px;'| Schëtter
 |
 |
 |-
-| style='height: 20px;'| Plan-les-Ouates
+| style='height: 20px;'| Iener
 |
 |
 |-
-| style='height: 20px;'| Dardagny
+| style='height: 20px;'| Näertrech
 |
 |
 |-
-| style='height: 20px;'| St. Gallen
+| style='height: 20px;'| Beidler
 |
 |
 |-
-| style='height: 20px;'| St. Gallen
+| style='height: 20px;'| Iechternach
 |
 |
 |-
-| style='height: 20px;'| Luzern
+| style='height: 20px;'| Sir
 |
 |
 |-
-| style='height: 20px;'| Untersiggenthal
+| style='height: 20px;'| Rodange
 |
 |
 |-
-| style='height: 20px;'| Ascona
+| style='height: 20px;'| Jonglënster
 |
 |
 |-
@@ -443,40 +443,32 @@
 == 10 random samples from field image ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-image 10 random samples
+|+ lu-image 10 random samples
 ! scope='col' style='width: 225px;' |image
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Kierch vu Kierchen.jpg
 |
 |
 |-
-| style='height: 20px;'| Zofingen-Rathaus.jpg
+| style='height: 20px;'| Collart Schlass--w.jpg
 |
 |
 |-
-| style='height: 20px;'| Chavannes-le-Veyron - Scierie - 1.jpg
+| style='height: 20px;'| St Donatus chapel in Beaufort, Luxembourg.jpg
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Mondorf, 30 avenue des Bains 01.jpg
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Lasauvage 88-88a rue Principale.jpg
 |
 |
 |-
-| style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| Onnens - Église réformée Saint-Martin.jpg
-|
-|
-|-
-| style='height: 20px;'| Maison Thorens à Yverdon les Bains.jpg
+| style='height: 20px;'| Linker Seitenaltar Kirche Wilwerwiltz 01.jpg
 |
 |
 |-
@@ -484,7 +476,15 @@
 |
 |
 |-
-| style='height: 20px;'| Luzern SUVA archiv.jpg
+| style='height: 20px;'| Ospern, rangée de tilleuls sur la route nationale 01.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Maison 6 à Essingen 01.jpg
 |
 |
 |-
@@ -492,7 +492,7 @@
 == 10 random samples from field commonscat ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-commonscat 10 random samples
+|+ lu-commonscat 10 random samples
 ! scope='col' style='width: 225px;' |commonscat
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -541,48 +541,48 @@
 == 10 random samples from field source ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-source 10 random samples
+|+ lu-source 10 random samples
 ! scope='col' style='width: 225px;' |source
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_Neuch%C3%A2tel&oldid=681986683
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Ell&oldid=1848538
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_Z%C3%BCrich&oldid=696410785
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Dikrech&oldid=1928581
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_Z%C3%BCrich&oldid=696410785
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Schengen&oldid=1887879
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_Thurgau&oldid=723316762
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_K%C3%A4erjeng&oldid=1929972
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_regional_significance_in_Switzerland%3A_Geneva&oldid=653907133
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Esch-Sauer&oldid=1860751
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_Vaud&oldid=705224565
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Fiels&oldid=1924217
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_Lucerne&oldid=688115192
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Wal&oldid=1903993
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_regional_significance_in_Switzerland%3A_Geneva&oldid=653907133
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_R%C3%A9imech&oldid=1691899
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_national_significance_in_Switzerland%3A_St._Gallen&oldid=682201371
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_R%C3%A9imech&oldid=1691899
 |
 |
 |-
-| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_cultural_property_of_regional_significance_in_Switzerland%3A_Valais&oldid=721108063
+| style='height: 20px;'| //lb.wikipedia.org/w/index.php?title=L%C3%ABscht_vun_den_nationale_Monumenter_an_der_Gemeng_Konsdref&oldid=1887872
 |
 |
 |-
@@ -590,7 +590,7 @@
 == 10 random samples from field monument_article ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-monument_article 10 random samples
+|+ lu-monument_article 10 random samples
 ! scope='col' style='width: 225px;' |monument_article
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -599,14 +599,6 @@
 |
 |
 |-
-| style='height: 20px;'| Parish_Church
-|
-|
-|-
-| style='height: 20px;'| Swiss_Reformed_Church
-|
-|
-|-
 | style='height: 20px;'| 
 |
 |
@@ -619,11 +611,19 @@
 |
 |
 |-
-| style='height: 20px;'| Switzerland_in_the_Roman_era
+| style='height: 20px;'| Albert_Hames
 |
 |
 |-
-| style='height: 20px;'| Seat_of_local_government
+| style='height: 20px;'| Uergelmanufaktur_Bridder_Müller
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -639,7 +639,7 @@
 == 10 random samples from field registrant_url ==
 
 {| class="wikitable" style="width: 675px;
-|+ ch-old-registrant_url 10 random samples
+|+ lu-registrant_url 10 random samples
 ! scope='col' style='width: 225px;' |registrant_url
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment

@@ -1,0 +1,687 @@
+= Non-standardized fields from country aq in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ASPA-139
+|
+|
+|-
+| style='height: 20px;'| HSM-57
+|
+|
+|-
+| style='height: 20px;'| ASPA-113
+|
+|
+|-
+| style='height: 20px;'| HSM-9
+|
+|
+|-
+| style='height: 20px;'| HSM-44
+|
+|
+|-
+| style='height: 20px;'| ASPA-133
+|
+|
+|-
+| style='height: 20px;'| ASPA-109
+|
+|
+|-
+| style='height: 20px;'| HSM-36
+|
+|
+|-
+| style='height: 20px;'| ASPA-128
+|
+|
+|-
+| style='height: 20px;'| HSM-48
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+| style='height: 20px;'| aq
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Hut at Damoy Point]], [[Dorian Bay]], [[Wiencke Island]], [[Palmer Archipelago]]
+|
+|
+|-
+| style='height: 20px;'| [[Lions Rump]], [[King George Island (South Shetland Islands)|King George Island]], [[South Shetland Islands]]
+|
+|
+|-
+| style='height: 20px;'| [[Western Bransfield Strait]]
+|
+|
+|-
+| style='height: 20px;'| [[Haswell Island]]
+|
+|
+|-
+| style='height: 20px;'| [[Mcmurdo Dry Valleys]], [[Southern Victoria Land]]
+|
+|
+|-
+| style='height: 20px;'| [[Taylor Rookery]], [[Mac. Robertson Land]]
+|
+|
+|-
+| style='height: 20px;'| [[Shackleton's Hut]]
+|
+|
+|-
+| style='height: 20px;'| [[Eastern Dallmann Bay]]
+|
+|
+|-
+| style='height: 20px;'| [[General San Martin's Bust, Antarctica]]
+|
+|
+|-
+| style='height: 20px;'| [[Kharma's Stone]]
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Byers Peninsula is situated at the west end of Livingston Island. Designated to protect three smaller ice-free sites on the peninsula of Jurassic and Cretaceous sedimentary and fossiliferous strata, it is considered of outstanding scientific value for stu
+|
+|
+|-
+| style='height: 20px;'| Hut at Hut Point, Ross Island, built in February 1902 by the British Antarctic Expedition of 190104, led by Captain Robert F. Scott. Partially restored in January 1964 by the New Zealand Antarctic Society, with assistance from the United States Governmen
+|
+|
+|-
+| style='height: 20px;'| Base Y' on Horseshoe Island, Marguerite Bay, western Graham Land. Noteworthy as a relatively unaltered and completely equipped British scientific base of the late 1950s. Blaiklock', the refuge hut nearby, is considered an integral part of the base.
+|
+|
+|-
+| style='height: 20px;'| Lynch Island is a small island situated at the eastern end of Marshall Bay in the South Orkney Islands, about 200m south of Coronation Island and 2.4 km north of Signy Island. The area includes the whole island above the low tide water level, excluding of
+|
+|
+|-
+| style='height: 20px;'| Hawker Island is located approximately 300m offshore from the Vestfold Hills, which is a roughly triangular ice-free area of approximately 512 km<sup>2</sup> of bedrock, glacial debris, lakes and ponds. The area supports the southernmost breeding colony o
+|
+|
+|-
+| style='height: 20px;'| The area consists of the whole of the northernmost rock exposure on the east side of Taylor Glacier, Mac. Robertson Land. It contains a colony of emperor penguins which is the largest of two known colonies of this species located entirely on land. The roo
+|
+|
+|-
+| style='height: 20px;'| Cape Adare is a generally ice free, prominent volcanic headland, at the northern extremity of Victoria Land. The area is located to the south west of the Cape on the southern shore of Ridley Beach. The area is an important symbol of the Heroic Age of Anta
+|
+|
+|-
+| style='height: 20px;'| Waterboat Point, Danco Coast, Antarctic Peninsula. The remains and immediate environs of the Waterboat Point hut. It was occupied by the UK two-man expedition of Thomas W. Bagshawe and Maxime C. Lester in 192122. Only the base of the boat, foundations of
+|
+|
+|-
+| style='height: 20px;'| Mikkelsen Cairn, Tryne Islands, Vestfold Hills. A rock cairn and a wooden mast erected by the landing party led by Captain Klarius Mikkelsen of the Norwegian whaling ship Thorshavn and including Caroline Mikkelsen, Captain Mikkelsen's wife, the first woma
+|
+|
+|-
+| style='height: 20px;'| The concrete pillar erected by the First Polish Antarctic Expedition at Dobrolowski Station on the Bunger Hill to measure acceleration due to gravity   g = 982,439.4 mgal ±0.4 mgal in relation to Warsaw, according to the Potsdam system, in January 1959.
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Poland
+|
+|
+|-
+| style='height: 20px;'| Argentina
+|
+|
+|-
+| style='height: 20px;'| New Zealand, United Kingdom, United States
+|
+|
+|-
+| style='height: 20px;'| Argentina
+|
+|
+|-
+| style='height: 20px;'| United Kingdom
+|
+|
+|-
+| style='height: 20px;'| Chile
+|
+|
+|-
+| style='height: 20px;'| United States
+|
+|
+|-
+| style='height: 20px;'| Bulgaria
+|
+|
+|-
+| style='height: 20px;'| Russian Federation
+|
+|
+|-
+| style='height: 20px;'| Australia
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 7682-whalers-bay-whaling-boat.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Proclamation Island 1930.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Dry Valleys, Antarctica.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Deception Island
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Mawson's Cairn, Cape Bruce
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Antarctic_Specially_Protected_Area&oldid=719895139
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Antarctic_Specially_Managed_Area&oldid=682360547
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Antarctic_Specially_Protected_Area&oldid=719895139
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Antarctic_Specially_Protected_Area&oldid=719895139
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Historic_Sites_and_Monuments_in_Antarctica&oldid=709034494
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Antarctic_Specially_Protected_Area&oldid=719895139
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Antarctic_Specially_Protected_Area&oldid=719895139
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Historic_Sites_and_Monuments_in_Antarctica&oldid=709034494
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Historic_Sites_and_Monuments_in_Antarctica&oldid=709034494
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=Historic_Sites_and_Monuments_in_Antarctica&oldid=709034494
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Terra_Nova_Hut
+|
+|
+|-
+| style='height: 20px;'| Emperor_Island
+|
+|
+|-
+| style='height: 20px;'| Biscoe_Point
+|
+|
+|-
+| style='height: 20px;'| Cross_on_Wind_Vane_Hill
+|
+|
+|-
+| style='height: 20px;'| Port_Lockroy
+|
+|
+|-
+| style='height: 20px;'| Cape_Royds
+|
+|
+|-
+| style='height: 20px;'| Base_Marret
+|
+|
+|-
+| style='height: 20px;'| Whalers_Bay_(South_Shetland_Islands)
+|
+|
+|-
+| style='height: 20px;'| Botany_Bay
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ aq-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=2&id=20&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=1&id=124&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=1&id=143&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=2&id=56&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=1&id=126&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=2&id=46&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=1&id=148&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=2&id=63&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=1&id=112&lang=e
+|
+|
+|-
+| style='height: 20px;'| http://www.ats.aq/devPH/apa/ep_protected_detail.aspx?type=3&id=78&lang=e
+|
+|
+|-
+|}

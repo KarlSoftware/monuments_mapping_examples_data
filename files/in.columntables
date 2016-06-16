@@ -1,49 +1,49 @@
-= Non-standardized fields from country no in monuments_all =
+= Non-standardized fields from country in in monuments_all =
 == 10 random samples from field id ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-id 10 random samples
+|+ in-id 10 random samples
 ! scope='col' style='width: 225px;' |id
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 144444
+| style='height: 20px;'| S-KA-185
 |
 |
 |-
-| style='height: 20px;'| 159293
+| style='height: 20px;'| S-GJ-248
 |
 |
 |-
-| style='height: 20px;'| 95211
+| style='height: 20px;'| N-DL-143
 |
 |
 |-
-| style='height: 20px;'| 21646
+| style='height: 20px;'| N-HR-60
 |
 |
 |-
-| style='height: 20px;'| 102909
+| style='height: 20px;'| N-HR-88
 |
 |
 |-
-| style='height: 20px;'| 41632
+| style='height: 20px;'| S-KA-72
 |
 |
 |-
-| style='height: 20px;'| 100707
+| style='height: 20px;'| N-MP-21
 |
 |
 |-
-| style='height: 20px;'| 131839
+| style='height: 20px;'| N-AP-9
 |
 |
 |-
-| style='height: 20px;'| 130093
+| style='height: 20px;'| S-OR-200
 |
 |
 |-
-| style='height: 20px;'| 19300
+| style='height: 20px;'| S-WB-8
 |
 |
 |-
@@ -51,48 +51,48 @@
 == 10 random samples from field adm0 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm0 10 random samples
+|+ in-adm0 10 random samples
 ! scope='col' style='width: 225px;' |adm0
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| in
 |
 |
 |-
@@ -100,48 +100,48 @@
 == 10 random samples from field adm1 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm1 10 random samples
+|+ in-adm1 10 random samples
 ! scope='col' style='width: 225px;' |adm1
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no-05
+| style='height: 20px;'| in-kl
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| in-ka
 |
 |
 |-
-| style='height: 20px;'| no-01
+| style='height: 20px;'| in-ka
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| in-up
 |
 |
 |-
-| style='height: 20px;'| no-21
+| style='height: 20px;'| in-mp
 |
 |
 |-
-| style='height: 20px;'| no-19
+| style='height: 20px;'| in-up
 |
 |
 |-
-| style='height: 20px;'| no-20
+| style='height: 20px;'| in-up
 |
 |
 |-
-| style='height: 20px;'| no-10
+| style='height: 20px;'| in-up
 |
 |
 |-
-| style='height: 20px;'| no-18
+| style='height: 20px;'| in-mp
 |
 |
 |-
-| style='height: 20px;'| no-06
+| style='height: 20px;'| in-ka
 |
 |
 |-
@@ -149,48 +149,48 @@
 == 10 random samples from field adm2 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm2 10 random samples
+|+ in-adm2 10 random samples
 ! scope='col' style='width: 225px;' |adm2
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Vågå]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Nordvest-Spitsbergen nasjonalpark]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Surnadal]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Vikna]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Etnedal]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Enebakk]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Kongsvinger]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Våler (Hedmark)|Våler]]
+| style='height: 20px;'| 
 |
 |
 |-
@@ -198,7 +198,7 @@
 == 10 random samples from field adm3 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm3 10 random samples
+|+ in-adm3 10 random samples
 ! scope='col' style='width: 225px;' |adm3
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -247,7 +247,7 @@
 == 10 random samples from field adm4 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm4 10 random samples
+|+ in-adm4 10 random samples
 ! scope='col' style='width: 225px;' |adm4
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -296,48 +296,48 @@
 == 10 random samples from field name ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-name 10 random samples
+|+ in-name 10 random samples
 ! scope='col' style='width: 225px;' |name
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Røylands kvednèhus
+| style='height: 20px;'| Ruins of the fortified city of Pandua
 |
 |
 |-
-| style='height: 20px;'| Hjelmungen Øvre II
+| style='height: 20px;'| Shaikpet mosque and sarai
 |
 |
 |-
-| style='height: 20px;'| Harildstad søndre, harildstad sørigard
+| style='height: 20px;'| Ancient Temple-4
 |
 |
 |-
-| style='height: 20px;'| Falkensten - Falkensten Bruk
+| style='height: 20px;'| Unknown tomb Ghiaspur 153,
 |
 |
 |-
-| style='height: 20px;'| Veie kirkestad
+| style='height: 20px;'| Sarvesvara temple
 |
 |
 |-
-| style='height: 20px;'| Indre Åsesvi
+| style='height: 20px;'| Maqbara Mahmood Gavan
 |
 |
 |-
-| style='height: 20px;'| Kjempesteinane
+| style='height: 20px;'| Birthplace of Sri Madhavacharya, Sri Anathapadmanabhaswamy Temple
 |
 |
 |-
-| style='height: 20px;'| Berkåk kirkested
+| style='height: 20px;'| Rampart of old Amber town, Amber
 |
 |
 |-
-| style='height: 20px;'| Stemtjønnbekken
+| style='height: 20px;'| Old Hindu temple
 |
 |
 |-
-| style='height: 20px;'| Aldersund kirkested
+| style='height: 20px;'| Ashokan Column
 |
 |
 |-
@@ -345,7 +345,7 @@
 == 10 random samples from field address ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-address 10 random samples
+|+ in-address 10 random samples
 ! scope='col' style='width: 225px;' |address
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -394,48 +394,48 @@
 == 10 random samples from field municipality ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-municipality 10 random samples
+|+ in-municipality 10 random samples
 ! scope='col' style='width: 225px;' |municipality
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Evje og Hornnes]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Tinn]]
+| style='height: 20px;'| Gyaraspur
 |
 |
 |-
-| style='height: 20px;'| [[Iveland]]
+| style='height: 20px;'| [[Sitapur]]
 |
 |
 |-
-| style='height: 20px;'| [[Karlsøy]]
+| style='height: 20px;'| [[Cooch Behar]]
 |
 |
 |-
-| style='height: 20px;'| [[Tjøme]]
+| style='height: 20px;'| [[Jaipur, Rajasthan|Jaipur]]
 |
 |
 |-
-| style='height: 20px;'| [[Ullensvang]]
+| style='height: 20px;'| [[Bijapur, Karnataka|Bijapur]]
 |
 |
 |-
-| style='height: 20px;'| [[Ibestad]]
+| style='height: 20px;'| [[Rewa, Madhya Pradesh|Rewa]]
 |
 |
 |-
-| style='height: 20px;'| [[Re]]
+| style='height: 20px;'| [[Ferozepur]]
 |
 |
 |-
-| style='height: 20px;'| [[Etne]]
+| style='height: 20px;'| [[Sion, Mumbai|Sion]]
 |
 |
 |-
-| style='height: 20px;'| [[Tingvoll]]
+| style='height: 20px;'| [[Jagadhari]]
 |
 |
 |-
@@ -443,15 +443,11 @@
 == 10 random samples from field image ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-image 10 random samples
+|+ in-image 10 random samples
 ! scope='col' style='width: 225px;' |image
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Rødberg tåkeklokke.jpg
-|
-|
-|-
 | style='height: 20px;'| 
 |
 |
@@ -460,11 +456,7 @@
 |
 |
 |-
-| style='height: 20px;'| Gaupholmen, Aust-Agder - Riksantikvaren-T196 01 0127.jpg
-|
-|
-|-
-| style='height: 20px;'| 
+| style='height: 20px;'| Kirmachi Group of Temples, Udhampur, ASI number 67.JPG
 |
 |
 |-
@@ -481,6 +473,14 @@
 |
 |-
 | style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Light House Auguda Fortress (Upper).JPG
+|
+|
+|-
+| style='height: 20px;'| Rohinkhed Fort.JPG
 |
 |
 |-
@@ -492,7 +492,7 @@
 == 10 random samples from field commonscat ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-commonscat 10 random samples
+|+ in-commonscat 10 random samples
 ! scope='col' style='width: 225px;' |commonscat
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -541,48 +541,48 @@
 == 10 random samples from field source ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-source 10 random samples
+|+ in-source 10 random samples
 ! scope='col' style='width: 225px;' |source
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Vang&oldid=16260235
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Monuments_of_National_Importance_in_Lalitpur_district&oldid=692422621
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_p%C3%A5_resten_av_Svalbard&oldid=16260302
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Monuments_of_National_Importance_in_Agra_district&oldid=722369601
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_%C3%98vre_Eiker&oldid=16260297
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_State_Protected_Monuments_in_Maharashtra&oldid=699029523
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Etnedal&oldid=16259893
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_State_Protected_Monuments_in_Madhya_Pradesh&oldid=719662930
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_State_Protected_Monuments_in_Mizoram&oldid=688571454
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Kvalsund&oldid=16260004
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Monuments_of_National_Importance_in_Agra_circle&oldid=692387432
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Notodden&oldid=16260093
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_State_Protected_Monuments_in_Madhya_Pradesh&oldid=719662930
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Harstad&oldid=16259955
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Monuments_of_National_Importance_in_Chennai_circle&oldid=704761625
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Tinn&oldid=16260207
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Monuments_of_National_Importance_in_Agra_circle&oldid=692387432
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Monuments_of_National_Importance_in_Aurangabad_circle&oldid=702441187
 |
 |
 |-
@@ -590,28 +590,16 @@
 == 10 random samples from field monument_article ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-monument_article 10 random samples
+|+ in-monument_article 10 random samples
 ! scope='col' style='width: 225px;' |monument_article
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Kirkesnesmoen_kirkested
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| Kalvøya_(Djupsundet)
-|
-|
-|-
-| style='height: 20px;'| Gropstein_ved_Hansbu
-|
-|
-|-
-| style='height: 20px;'| Valle_(I+II)_-_Finnhågen
-|
-|
-|-
-| style='height: 20px;'| Tanum_kirke_(Bærum)
+| style='height: 20px;'| 
 |
 |
 |-
@@ -623,7 +611,7 @@
 |
 |
 |-
-| style='height: 20px;'| Ebeltofthamna,
+| style='height: 20px;'| 
 |
 |
 |-
@@ -631,7 +619,19 @@
 |
 |
 |-
-| style='height: 20px;'| Myklaberget
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -639,48 +639,48 @@
 == 10 random samples from field registrant_url ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-registrant_url 10 random samples
+|+ in-registrant_url 10 random samples
 ! scope='col' style='width: 225px;' |registrant_url
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=83954
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87441
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=41600
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=97168
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=86030
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=142558
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=51904
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87244
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=64209
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=138058
+| style='height: 20px;'| 
 |
 |
 |-

@@ -1,0 +1,687 @@
+= Non-standardized fields from country pl in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 619289
+|
+|
+|-
+| style='height: 20px;'| 628285
+|
+|
+|-
+| style='height: 20px;'| 618926
+|
+|
+|-
+| style='height: 20px;'| 643287
+|
+|
+|-
+| style='height: 20px;'| 599571
+|
+|
+|-
+| style='height: 20px;'| 658318
+|
+|
+|-
+| style='height: 20px;'| 653529
+|
+|
+|-
+| style='height: 20px;'| 614557
+|
+|
+|-
+| style='height: 20px;'| 594898
+|
+|
+|-
+| style='height: 20px;'| 650668
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+| style='height: 20px;'| pl
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| pl-kp
+|
+|
+|-
+| style='height: 20px;'| pl-lu
+|
+|
+|-
+| style='height: 20px;'| pl-mz
+|
+|
+|-
+| style='height: 20px;'| pl-sk
+|
+|
+|-
+| style='height: 20px;'| pl-ds
+|
+|
+|-
+| style='height: 20px;'| pl-wp
+|
+|
+|-
+| style='height: 20px;'| pl-op
+|
+|
+|-
+| style='height: 20px;'| pl-pk
+|
+|
+|-
+| style='height: 20px;'| pl-ma
+|
+|
+|-
+| style='height: 20px;'| pl-lb
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Warszawa
+|
+|
+|-
+| style='height: 20px;'| powiat tarnowski
+|
+|
+|-
+| style='height: 20px;'| powiat gda?ski
+|
+|
+|-
+| style='height: 20px;'| powiat o?awski
+|
+|
+|-
+| style='height: 20px;'| Katowice
+|
+|
+|-
+| style='height: 20px;'| powiat ?widnicki
+|
+|
+|-
+| style='height: 20px;'| powiat bartoszycki
+|
+|
+|-
+| style='height: 20px;'| powiat ostrzeszowski
+|
+|
+|-
+| style='height: 20px;'| powiat rzeszowski
+|
+|
+|-
+| style='height: 20px;'| Tarnów
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| gmina Grodzisk Wielkopolski
+|
+|
+|-
+| style='height: 20px;'| gmina Czy?ew-Osada
+|
+|
+|-
+| style='height: 20px;'| gmina Bolków
+|
+|
+|-
+| style='height: 20px;'| gmina Kikó?
+|
+|
+|-
+| style='height: 20px;'| gmina Kutno
+|
+|
+|-
+| style='height: 20px;'| Tarnobrzeg
+|
+|
+|-
+| style='height: 20px;'| gmina Pierzchnica
+|
+|
+|-
+| style='height: 20px;'| gmina Horyniec-Zdrój
+|
+|
+|-
+| style='height: 20px;'| gmina Barlinek
+|
+|
+|-
+| style='height: 20px;'| gmina Skalbmierz
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Bolestraszyce
+|
+|
+|-
+| style='height: 20px;'| Przemy?l
+|
+|
+|-
+| style='height: 20px;'| ???any
+|
+|
+|-
+| style='height: 20px;'| Paczków
+|
+|
+|-
+| style='height: 20px;'| Warszawa
+|
+|
+|-
+| style='height: 20px;'| Czelad?
+|
+|
+|-
+| style='height: 20px;'| Czelad?
+|
+|
+|-
+| style='height: 20px;'| Kadyny
+|
+|
+|-
+| style='height: 20px;'| Pruszków
+|
+|
+|-
+| style='height: 20px;'| Bukówko
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| park, 1909
+|
+|
+|-
+| style='height: 20px;'| dom mieszkalny, XVIII
+|
+|
+|-
+| style='height: 20px;'| le?niczówka, XIX/XX
+|
+|
+|-
+| style='height: 20px;'| dom, XIX/XX
+|
+|
+|-
+| style='height: 20px;'| spichrz, ob. nr 55, XIX
+|
+|
+|-
+| style='height: 20px;'| oficyna, pocz. XX
+|
+|
+|-
+| style='height: 20px;'| dom, XIX w.
+|
+|
+|-
+| style='height: 20px;'| dom, po 1925 <small>(w zespole zabudowa? osiedla kolejarskiego)</small>
+|
+|
+|-
+| style='height: 20px;'| Baszta Maureta?ska, XII, XIV, XVIII
+|
+|
+|-
+| style='height: 20px;'| [[Dworek w Baranowie|zespó? dworski]], 2 po?. XIX, XX
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ul. Batorego 78
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ul. Podwale
+|
+|
+|-
+| style='height: 20px;'| ul. Konopnickiej 4
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| gmina Wieliczka
+|
+|
+|-
+| style='height: 20px;'| gmina Boles?aw
+|
+|
+|-
+| style='height: 20px;'| gmina Milejów
+|
+|
+|-
+| style='height: 20px;'| gmina Dzia?dowo
+|
+|
+|-
+| style='height: 20px;'| gmina Ci??kowice
+|
+|
+|-
+| style='height: 20px;'| gmina Skwierzyna
+|
+|
+|-
+| style='height: 20px;'| gmina Maków
+|
+|
+|-
+| style='height: 20px;'| gmina Olecko
+|
+|
+|-
+| style='height: 20px;'| Przemy?l
+|
+|
+|-
+| style='height: 20px;'| Wa?brzych
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Z?otoryja Niepodleg?o?ci 3-6 sm.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Stary Rynek 19 (1)-1.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Wie?a ci?nie? spopl.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Wschowa, dawna szko?a ewangelicka.jpg
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Water well in Krasnopol
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 2 Zacisze Street in Elbl?g
+|
+|
+|-
+| style='height: 20px;'| Sacred Heart church in Piotrowo
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/dolno%C5%9Bl%C4%85skie/Legnica/Legnica&oldid=45861659
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/wielkopolskie/powiat_ko%C5%9Bcia%C5%84ski/gmina_Krzywi%C5%84&oldid=40268353
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/zachodniopomorskie/powiat_wa%C5%82ecki/gmina_Tuczno&oldid=40732590
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/ma%C5%82opolskie/Krak%C3%B3w/%C5%9Ar%C3%B3dmie%C5%9Bcie&oldid=45471231
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/wielkopolskie/Leszno/Leszno&oldid=40268264
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/mazowieckie/Warszawa/%C5%BBoliborz&oldid=43503622
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/wielkopolskie/powiat_ko%C5%9Bcia%C5%84ski/gmina_Krzywi%C5%84&oldid=40268353
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/wielkopolskie/powiat_pozna%C5%84ski/gmina_Suchy_Las&oldid=40780754
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/ma%C5%82opolskie/powiat_nowos%C4%85decki/gmina_Stary_S%C4%85cz&oldid=42079231
+|
+|
+|-
+| style='height: 20px;'| //pl.wikipedia.org/w/index.php?title=Wikipedia%3AWiki_Lubi_Zabytki/mazowieckie/powiat_gr%C3%B3jecki/gmina_Warka&oldid=43466965
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ pl-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 606201
+|
+|
+|-
+| style='height: 20px;'| 591995
+|
+|
+|-
+| style='height: 20px;'| 629829
+|
+|
+|-
+| style='height: 20px;'| 621244
+|
+|
+|-
+| style='height: 20px;'| 652428
+|
+|
+|-
+| style='height: 20px;'| 737927
+|
+|
+|-
+| style='height: 20px;'| 610040
+|
+|
+|-
+| style='height: 20px;'| 597707
+|
+|
+|-
+| style='height: 20px;'| 596872
+|
+|
+|-
+| style='height: 20px;'| 619173
+|
+|
+|-
+|}

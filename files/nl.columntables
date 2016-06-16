@@ -1,0 +1,687 @@
+= Non-standardized fields from country nl in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 5202
+|
+|
+|-
+| style='height: 20px;'| 28054
+|
+|
+|-
+| style='height: 20px;'| 11835
+|
+|
+|-
+| style='height: 20px;'| 28741
+|
+|
+|-
+| style='height: 20px;'| 18155
+|
+|
+|-
+| style='height: 20px;'| 5508
+|
+|
+|-
+| style='height: 20px;'| 511255
+|
+|
+|-
+| style='height: 20px;'| 528650
+|
+|
+|-
+| style='height: 20px;'| 15378
+|
+|
+|-
+| style='height: 20px;'| 22061
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| nl-ze
+|
+|
+|-
+| style='height: 20px;'| nl-zh
+|
+|
+|-
+| style='height: 20px;'| nl-ge
+|
+|
+|-
+| style='height: 20px;'| nl-zh
+|
+|
+|-
+| style='height: 20px;'| nl-zh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-fr
+|
+|
+|-
+| style='height: 20px;'| nl-ze
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Stadskanaal
+|
+|
+|-
+| style='height: 20px;'| Naarden
+|
+|
+|-
+| style='height: 20px;'| Leeuwarden
+|
+|
+|-
+| style='height: 20px;'| Arnhem
+|
+|
+|-
+| style='height: 20px;'| Stein
+|
+|
+|-
+| style='height: 20px;'| Pieterburen
+|
+|
+|-
+| style='height: 20px;'| Leeuwarden
+|
+|
+|-
+| style='height: 20px;'| Maassluis
+|
+|
+|-
+| style='height: 20px;'| Middenbeemster
+|
+|
+|-
+| style='height: 20px;'| Hembrug
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Wierde<br/>(Leegkerk V)
+|
+|
+|-
+| style='height: 20px;'| Pand met topgevel met treden ter halverhoogte
+|
+|
+|-
+| style='height: 20px;'| Pand met halsgevel met gevelsteen
+|
+|
+|-
+| style='height: 20px;'| Nieuw-Amelisweerd: koetshuis/ tuinmanswoning
+|
+|
+|-
+| style='height: 20px;'| {{sorteer|Stadhuis|Voorm. [[Stadhuis van Stavoren]]}}
+|
+|
+|-
+| style='height: 20px;'| [[Stadhuis van Medemblik|Gemeentehuis]]
+|
+|
+|-
+| style='height: 20px;'| Winkelwoningcomplex met gevel in Art Nouveau-stijl
+|
+|
+|-
+| style='height: 20px;'| Hoekpand Statenstraat.
+|
+|
+|-
+| style='height: 20px;'| Pand met laat 16e-eeuwse bakstenen trapgevel, pui gewijzigd
+|
+|
+|-
+| style='height: 20px;'| Hoekpand onder diep zadeldak tegen achtertopgevel en voorgevel met rechte kroonlijst, dakkapel en schoorsteen
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Reestraat 5
+|
+|
+|-
+| style='height: 20px;'| Dubbele Ring 25
+|
+|
+|-
+| style='height: 20px;'| [[Hogewoerd (Leiden)|Hogewoerd]] 59-61
+|
+|
+|-
+| style='height: 20px;'| Herenstreek
+|
+|
+|-
+| style='height: 20px;'| Antoniestraat 30
+|
+|
+|-
+| style='height: 20px;'| [[Sophiahof|Sophialaan 10]]
+|
+|
+|-
+| style='height: 20px;'| Utrechtseweg bij 303
+|
+|
+|-
+| style='height: 20px;'| Egelantiersstraat 51
+|
+|
+|-
+| style='height: 20px;'| Veldweg 89
+|
+|
+|-
+| style='height: 20px;'| {{sorteer|Oudestraat 147|Oudestraat 147}}
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Nieuwolda
+|
+|
+|-
+| style='height: 20px;'| Monnickendam
+|
+|
+|-
+| style='height: 20px;'| Schiedam
+|
+|
+|-
+| style='height: 20px;'| Maastricht
+|
+|
+|-
+| style='height: 20px;'| Geertruidenberg
+|
+|
+|-
+| style='height: 20px;'| 's-Gravenhage
+|
+|
+|-
+| style='height: 20px;'| Nietap
+|
+|
+|-
+| style='height: 20px;'| Heerlen
+|
+|
+|-
+| style='height: 20px;'| Vries
+|
+|
+|-
+| style='height: 20px;'| Amsterdam
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Voorzijde "Persevrance" - Deldenerbroek - 20048237 - RCE.jpg
+|
+|
+|-
+| style='height: 20px;'| Heerlen-Nieuwenhofstraat 6.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Kerkstraat5_Eemnes.jpg
+|
+|
+|-
+| style='height: 20px;'| Amsterdam - Keizersgracht 392.JPG
+|
+|
+|-
+| style='height: 20px;'| Gerechtsgebouw,_Gellicum.jpg
+|
+|
+|-
+| style='height: 20px;'| Vrolikstraat 8 Banken (531069) 2.jpg
+|
+|
+|-
+| style='height: 20px;'| TolLoenen8182.jpg
+|
+|
+|-
+| style='height: 20px;'| Hattem kerk.jpg
+|
+|
+|-
+| style='height: 20px;'| Vliet 14, Leiden.JPG
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Oude Mattheuskerk, Eibergen
+|
+|
+|-
+| style='height: 20px;'| Kleine Overstraat 42-44, Deventer
+|
+|
+|-
+| style='height: 20px;'| Lyndenstein
+|
+|
+|-
+| style='height: 20px;'| Korendijk 58, Middelburg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Huize de Poll
+|
+|
+|-
+| style='height: 20px;'| 't Loug 17, Spijk
+|
+|
+|-
+| style='height: 20px;'| Houtmarkt 77, Zutphen
+|
+|
+|-
+| style='height: 20px;'| Langestraat 1, Alkmaar
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Wanroij&oldid=42161069
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Aagtekerke&oldid=44842059
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Haastrecht&oldid=46772652
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Lopik_%28plaats%29&oldid=46755033
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Rijswijk_%28Zuid-Holland%29&oldid=46095790
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Enkhuizen&oldid=46843180
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Denekamp&oldid=46664233
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Zuidland&oldid=46695620
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_aan_de_Keizersgracht_%28Amsterdam%2C_Zuid%29&oldid=43413926
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_rijksmonumenten_in_Zeist_%28plaats%29&oldid=46092154
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Watertoren_(Aalsmeer)
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=14600
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=16844
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=21814
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=522151
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=23356
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=31822
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=3816
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=40277
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=8763
+|
+|
+|-
+| style='height: 20px;'| http://monumentenregister.cultureelerfgoed.nl/php/main.php?cAction=search&sCompMonNr=6413
+|
+|
+|-
+|}

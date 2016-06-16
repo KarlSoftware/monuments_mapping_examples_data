@@ -1,49 +1,49 @@
-= Non-standardized fields from country no in monuments_all =
+= Non-standardized fields from country uy in monuments_all =
 == 10 random samples from field id ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-id 10 random samples
+|+ uy-id 10 random samples
 ! scope='col' style='width: 225px;' |id
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 144444
+| style='height: 20px;'| 019-077
 |
 |
 |-
-| style='height: 20px;'| 159293
+| style='height: 20px;'| 019-130
 |
 |
 |-
-| style='height: 20px;'| 95211
+| style='height: 20px;'| 020-078
 |
 |
 |-
-| style='height: 20px;'| 21646
+| style='height: 20px;'| 036-011
 |
 |
 |-
-| style='height: 20px;'| 102909
+| style='height: 20px;'| 030-011
 |
 |
 |-
-| style='height: 20px;'| 41632
+| style='height: 20px;'| 020-061
 |
 |
 |-
-| style='height: 20px;'| 100707
+| style='height: 20px;'| 033-039
 |
 |
 |-
-| style='height: 20px;'| 131839
+| style='height: 20px;'| 019-313
 |
 |
 |-
-| style='height: 20px;'| 130093
+| style='height: 20px;'| 020-165
 |
 |
 |-
-| style='height: 20px;'| 19300
+| style='height: 20px;'| 030-007
 |
 |
 |-
@@ -51,48 +51,48 @@
 == 10 random samples from field adm0 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm0 10 random samples
+|+ uy-adm0 10 random samples
 ! scope='col' style='width: 225px;' |adm0
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
-| style='height: 20px;'| no
+| style='height: 20px;'| uy
 |
 |
 |-
@@ -100,48 +100,48 @@
 == 10 random samples from field adm1 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm1 10 random samples
+|+ uy-adm1 10 random samples
 ! scope='col' style='width: 225px;' |adm1
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| no-05
+| style='height: 20px;'| uy-mo
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| uy-sj
 |
 |
 |-
-| style='height: 20px;'| no-01
+| style='height: 20px;'| uy-mo
 |
 |
 |-
-| style='height: 20px;'| no-04
+| style='height: 20px;'| uy-mo
 |
 |
 |-
-| style='height: 20px;'| no-21
+| style='height: 20px;'| uy-mo
 |
 |
 |-
-| style='height: 20px;'| no-19
+| style='height: 20px;'| uy-mo
 |
 |
 |-
-| style='height: 20px;'| no-20
+| style='height: 20px;'| uy-cl
 |
 |
 |-
-| style='height: 20px;'| no-10
+| style='height: 20px;'| uy-rn
 |
 |
 |-
-| style='height: 20px;'| no-18
+| style='height: 20px;'| uy-cl
 |
 |
 |-
-| style='height: 20px;'| no-06
+| style='height: 20px;'| uy-sa
 |
 |
 |-
@@ -149,48 +149,48 @@
 == 10 random samples from field adm2 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm2 10 random samples
+|+ uy-adm2 10 random samples
 ! scope='col' style='width: 225px;' |adm2
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Vågå]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Nordvest-Spitsbergen nasjonalpark]]
+| style='height: 20px;'| Ciudad de Paysandú
 |
 |
 |-
-| style='height: 20px;'| [[Surnadal]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Vikna]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Etnedal]]
+| style='height: 20px;'| Las Piedras
 |
 |
 |-
-| style='height: 20px;'| [[Enebakk]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Kristiansand]]
+| style='height: 20px;'| Ciudad de Paysandú
 |
 |
 |-
-| style='height: 20px;'| [[Kongsvinger]]
+| style='height: 20px;'| Mercedes
 |
 |
 |-
-| style='height: 20px;'| [[Våler (Hedmark)|Våler]]
+| style='height: 20px;'| 
 |
 |
 |-
@@ -198,7 +198,7 @@
 == 10 random samples from field adm3 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm3 10 random samples
+|+ uy-adm3 10 random samples
 ! scope='col' style='width: 225px;' |adm3
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -247,7 +247,7 @@
 == 10 random samples from field adm4 ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-adm4 10 random samples
+|+ uy-adm4 10 random samples
 ! scope='col' style='width: 225px;' |adm4
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -296,48 +296,48 @@
 == 10 random samples from field name ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-name 10 random samples
+|+ uy-name 10 random samples
 ! scope='col' style='width: 225px;' |name
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Røylands kvednèhus
+| style='height: 20px;'| Estancia de los Bálsamos, que perteneció a don Venancio Bálsamo Rodríguez
 |
 |
 |-
-| style='height: 20px;'| Hjelmungen Øvre II
+| style='height: 20px;'| Casa ubicada en el pasaje peatonal de la Plaza de Armas Manuel Lobo
 |
 |
 |-
-| style='height: 20px;'| Harildstad søndre, harildstad sørigard
+| style='height: 20px;'| Juan Scagliola (busto)
 |
 |
 |-
-| style='height: 20px;'| Falkensten - Falkensten Bruk
+| style='height: 20px;'| Monumento al picapedrero
 |
 |
 |-
-| style='height: 20px;'| Veie kirkestad
+| style='height: 20px;'| Edificio Sorocabana
 |
 |
 |-
-| style='height: 20px;'| Indre Åsesvi
+| style='height: 20px;'| Varias edificaciones del Barrio Reus Sur y Norte
 |
 |
 |-
-| style='height: 20px;'| Kjempesteinane
+| style='height: 20px;'| Molino de Bosch
 |
 |
 |-
-| style='height: 20px;'| Berkåk kirkested
+| style='height: 20px;'| Teatro Larrañaga
 |
 |
 |-
-| style='height: 20px;'| Stemtjønnbekken
+| style='height: 20px;'| Pinturas Prehistóricas
 |
 |
 |-
-| style='height: 20px;'| Aldersund kirkested
+| style='height: 20px;'| Dionisio Díaz
 |
 |
 |-
@@ -345,12 +345,20 @@
 == 10 random samples from field address ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-address 10 random samples
+|+ uy-address 10 random samples
 ! scope='col' style='width: 225px;' |address
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Instituto de En. Básica y Superior
+|
+|
+|-
+| style='height: 20px;'| Parque Rodó
+|
+|
+|-
+| style='height: 20px;'| Sarandí entre Treinta y Tres y 18 de Julio
 |
 |
 |-
@@ -358,7 +366,7 @@
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Plazuela Bernabé Rivera
 |
 |
 |-
@@ -366,27 +374,19 @@
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Herrera y Reissig, Gonzalo Ramírez y 21 de Septiembre
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| Gral. Flores 2125, Yatay, Marcelino Sosa e Isidoro de María
 |
 |
 |-
-| style='height: 20px;'| 
+| style='height: 20px;'| calles Pte. Viera y Anollés
 |
 |
 |-
-| style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| 
+| style='height: 20px;'| Plazoleta ubicada en Batlle y T y Tres
 |
 |
 |-
@@ -394,48 +394,48 @@
 == 10 random samples from field municipality ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-municipality 10 random samples
+|+ uy-municipality 10 random samples
 ! scope='col' style='width: 225px;' |municipality
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| [[Evje og Hornnes]]
+| style='height: 20px;'| Nueva Helvecia
 |
 |
 |-
-| style='height: 20px;'| [[Tinn]]
+| style='height: 20px;'| Melo
 |
 |
 |-
-| style='height: 20px;'| [[Iveland]]
+| style='height: 20px;'| Cabo Polonio
 |
 |
 |-
-| style='height: 20px;'| [[Karlsøy]]
+| style='height: 20px;'| Mercedes
 |
 |
 |-
-| style='height: 20px;'| [[Tjøme]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Ullensvang]]
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| [[Ibestad]]
+| style='height: 20px;'| La Paz
 |
 |
 |-
-| style='height: 20px;'| [[Re]]
+| style='height: 20px;'| Las Piedras
 |
 |
 |-
-| style='height: 20px;'| [[Etne]]
+| style='height: 20px;'| Canelones
 |
 |
 |-
-| style='height: 20px;'| [[Tingvoll]]
+| style='height: 20px;'| Ciudad de Salto
 |
 |
 |-
@@ -443,24 +443,12 @@
 == 10 random samples from field image ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-image 10 random samples
+|+ uy-image 10 random samples
 ! scope='col' style='width: 225px;' |image
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Rødberg tåkeklokke.jpg
-|
-|
-|-
 | style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| 
-|
-|
-|-
-| style='height: 20px;'| Gaupholmen, Aust-Agder - Riksantikvaren-T196 01 0127.jpg
 |
 |
 |-
@@ -473,6 +461,18 @@
 |
 |-
 | style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Estación de trenes en Joaquín Suárez I.jpg
+|
+|
+|-
+| style='height: 20px;'| Zavalla 2.jpg
 |
 |
 |-
@@ -492,7 +492,7 @@
 == 10 random samples from field commonscat ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-commonscat 10 random samples
+|+ uy-commonscat 10 random samples
 ! scope='col' style='width: 225px;' |commonscat
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
@@ -541,48 +541,48 @@
 == 10 random samples from field source ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-source 10 random samples
+|+ uy-source 10 random samples
 ! scope='col' style='width: 225px;' |source
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Vang&oldid=16260235
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Montevideo&oldid=91238252
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_p%C3%A5_resten_av_Svalbard&oldid=16260302
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Soriano&oldid=88131129
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_%C3%98vre_Eiker&oldid=16260297
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Montevideo&oldid=91238252
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Etnedal&oldid=16259893
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Montevideo&oldid=91238252
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Cerro_Largo&oldid=81457510
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Kvalsund&oldid=16260004
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Montevideo&oldid=91238252
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Notodden&oldid=16260093
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Montevideo&oldid=91238252
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Harstad&oldid=16259955
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Cerro_Largo&oldid=81457510
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Tinn&oldid=16260207
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Soriano&oldid=88131129
 |
 |
 |-
-| style='height: 20px;'| //no.wikipedia.org/w/index.php?title=Liste_over_kulturminner_i_Sarpsborg&oldid=16260145
+| style='height: 20px;'| //es.wikipedia.org/w/index.php?title=Anexo%3AMonumentos_de_Salto&oldid=77149093
 |
 |
 |-
@@ -590,28 +590,16 @@
 == 10 random samples from field monument_article ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-monument_article 10 random samples
+|+ uy-monument_article 10 random samples
 ! scope='col' style='width: 225px;' |monument_article
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| Kirkesnesmoen_kirkested
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| Kalvøya_(Djupsundet)
-|
-|
-|-
-| style='height: 20px;'| Gropstein_ved_Hansbu
-|
-|
-|-
-| style='height: 20px;'| Valle_(I+II)_-_Finnhågen
-|
-|
-|-
-| style='height: 20px;'| Tanum_kirke_(Bærum)
+| style='height: 20px;'| 
 |
 |
 |-
@@ -623,7 +611,7 @@
 |
 |
 |-
-| style='height: 20px;'| Ebeltofthamna,
+| style='height: 20px;'| 
 |
 |
 |-
@@ -631,7 +619,19 @@
 |
 |
 |-
-| style='height: 20px;'| Myklaberget
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
 |
 |
 |-
@@ -639,48 +639,48 @@
 == 10 random samples from field registrant_url ==
 
 {| class="wikitable" style="width: 675px;
-|+ no-registrant_url 10 random samples
+|+ uy-registrant_url 10 random samples
 ! scope='col' style='width: 225px;' |registrant_url
 ! scope='col' style='width: 225px; height: 20px;'|Conversion 
 ! scope='col' style='width: 225px;' | Comment
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=83954
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87441
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=41600
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=97168
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=86030
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=142558
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=51904
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=87244
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=64209
+| style='height: 20px;'| 
 |
 |
 |-
-| style='height: 20px;'| http://www.kulturminnesok.no/kulturminnesok/kulturminne/?LOK_ID=138058
+| style='height: 20px;'| 
 |
 |
 |-

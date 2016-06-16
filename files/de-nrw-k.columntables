@@ -1,0 +1,687 @@
+= Non-standardized fields from country de-nrw-k in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 1538
+|
+|
+|-
+| style='height: 20px;'| 7350
+|
+|
+|-
+| style='height: 20px;'| 3302
+|
+|
+|-
+| style='height: 20px;'| 4155
+|
+|
+|-
+| style='height: 20px;'| 1016
+|
+|
+|-
+| style='height: 20px;'| 8202
+|
+|
+|-
+| style='height: 20px;'| 114
+|
+|
+|-
+| style='height: 20px;'| 8484
+|
+|
+|-
+| style='height: 20px;'| 2065
+|
+|
+|-
+| style='height: 20px;'| 5449
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+| style='height: 20px;'| de
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+| style='height: 20px;'| de-nw
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+| style='height: 20px;'| Köln
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Urbach
+|
+|
+|-
+| style='height: 20px;'| Poll
+|
+|
+|-
+| style='height: 20px;'| Dellbrück
+|
+|
+|-
+| style='height: 20px;'| Neustadt-Nord
+|
+|
+|-
+| style='height: 20px;'| Sülz
+|
+|
+|-
+| style='height: 20px;'| Altstadt-Süd
+|
+|
+|-
+| style='height: 20px;'| Deutz
+|
+|
+|-
+| style='height: 20px;'| Altstadt-Nord
+|
+|
+|-
+| style='height: 20px;'| Lindenthal
+|
+|
+|-
+| style='height: 20px;'| Altstadt-Nord
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Wohnhaus
+|
+|
+|-
+| style='height: 20px;'| Teile der Fassaden und der Innenausstattung (ehem. Verwaltungsgebäude Stadthaus)
+|
+|
+|-
+| style='height: 20px;'| Wohnhaus
+|
+|
+|-
+| style='height: 20px;'| Wohnhaus
+|
+|
+|-
+| style='height: 20px;'| Wohn- und Geschäftshaus
+|
+|
+|-
+| style='height: 20px;'| Wohnhaus
+|
+|
+|-
+| style='height: 20px;'| Wohn- und Geschäftshaus
+|
+|
+|-
+| style='height: 20px;'| Gemeindehaus/ Wohnhaus
+|
+|
+|-
+| style='height: 20px;'| Wohnhaus
+|
+|
+|-
+| style='height: 20px;'| Allee/ Baumreihe
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Yorckstr. 32
+|
+|
+|-
+| style='height: 20px;'| Merheimer Str. 220
+|
+|
+|-
+| style='height: 20px;'| De-Noel-Platz 3
+|
+|
+|-
+| style='height: 20px;'| Weißenburgstr. 40
+|
+|
+|-
+| style='height: 20px;'| Neusser Str. 317
+|
+|
+|-
+| style='height: 20px;'| Körnerstr. 13
+|
+|
+|-
+| style='height: 20px;'| Bergisch Gladbacher Str. 1151
+|
+|
+|-
+| style='height: 20px;'| Trierer Str. 23
+|
+|
+|-
+| style='height: 20px;'| Holzmarkt o. Nr.
+|
+|
+|-
+| style='height: 20px;'| Braugasse 29
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Neustadt-Süd
+|
+|
+|-
+| style='height: 20px;'| Deutz
+|
+|
+|-
+| style='height: 20px;'| Altstadt-Süd
+|
+|
+|-
+| style='height: 20px;'| Neustadt-Süd
+|
+|
+|-
+| style='height: 20px;'| Mülheim
+|
+|
+|-
+| style='height: 20px;'| Marienburg
+|
+|
+|-
+| style='height: 20px;'| Merkenich
+|
+|
+|-
+| style='height: 20px;'| Neustadt-Nord
+|
+|
+|-
+| style='height: 20px;'| Neustadt-Nord
+|
+|
+|-
+| style='height: 20px;'| Höhenhaus
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 4143-Hauptstr 155.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Köln-Zollstock Pohligstr 10.jpg
+|
+|
+|-
+| style='height: 20px;'| Hölser Kreuz, Köln-Libur.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Köln Theodor-Heuss-Ring 34
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Nippes&oldid=153235243
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Zollstock&oldid=135887334
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Altstadt-Nord&oldid=154108844
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_H%C3%B6henberg&oldid=123150108
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Dellbr%C3%BCck&oldid=147044627
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Gremberghoven&oldid=153213483
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Neustadt-Nord&oldid=154956290
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Altstadt-S%C3%BCd&oldid=153445309
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Dellbr%C3%BCck&oldid=147044627
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_im_K%C3%B6lner_Stadtteil_Kalk&oldid=123150141
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ de-nrw-k-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

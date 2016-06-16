@@ -1,0 +1,687 @@
+= Non-standardized fields from country ro in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| DB-II-m-B-17303
+|
+|
+|-
+| style='height: 20px;'| BT-I-m-A-01812.01
+|
+|
+|-
+| style='height: 20px;'| HR-IV-m-B-13027
+|
+|
+|-
+| style='height: 20px;'| DJ-II-m-A-08242
+|
+|
+|-
+| style='height: 20px;'| CJ-I-m-A-07108.01
+|
+|
+|-
+| style='height: 20px;'| B-III-m-B-20038
+|
+|
+|-
+| style='height: 20px;'| IF-IV-m-B-15274.05
+|
+|
+|-
+| style='height: 20px;'| B-II-m-B-18084
+|
+|
+|-
+| style='height: 20px;'| SB-I-s-B-11952
+|
+|
+|-
+| style='height: 20px;'| PH-II-m-B-16750
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+| style='height: 20px;'| ro
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ro-sm
+|
+|
+|-
+| style='height: 20px;'| ro-tl
+|
+|
+|-
+| style='height: 20px;'| ro-cj
+|
+|
+|-
+| style='height: 20px;'| ro-bt
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ro-tr
+|
+|
+|-
+| style='height: 20px;'| ro-dj
+|
+|
+|-
+| style='height: 20px;'| ro-hr
+|
+|
+|-
+| style='height: 20px;'| ro-b
+|
+|
+|-
+| style='height: 20px;'| ro-bt
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ora? [[Întorsura Buz?ului]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Slimnic, Sibiu|Slimnic]]; comuna [[Comuna Slimnic, Sibiu|Slimnic]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Purc?reni, Arge?|Purc?reni]]; comuna [[Comuna Mice?ti, Arge?|Mice?ti]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Agapia, Neam?|Agapia]]; comuna [[Comuna Agapia, Neam?|Agapia]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Logig, Mure?|Logig]]; comuna [[Comuna Lunca, Mure?|Lunca]]
+|
+|
+|-
+| style='height: 20px;'| municipiul [[Târgu Mure?]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Cernat, Covasna|Cernat]]; comuna [[Comuna Cernat, Covasna|Cernat]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Sichevi?a, Cara?-Severin|Sichevi?a]]; comuna [[Comuna Sichevi?a, Cara?-Severin|Sichevi?a]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Mahmudia, Tulcea|Mahmudia]]; comuna [[Comuna Mahmudia, Tulcea|Mahmudia]]
+|
+|
+|-
+| style='height: 20px;'| municipiul [[Re?i?a]]
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Fortifica?ie
+|
+|
+|-
+| style='height: 20px;'| [[Biserica Na?terea Maicii Domnului din Homorog|Biserica ortodox? Adormirea Maicii Domnului]]
+|
+|
+|-
+| style='height: 20px;'| A?ezare
+|
+|
+|-
+| style='height: 20px;'| Statuia lui Dózsa György
+|
+|
+|-
+| style='height: 20px;'| Situl arheologic de la Slobozia, punct La ?an?uri
+|
+|
+|-
+| style='height: 20px;'| Halta Abrud
+|
+|
+|-
+| style='height: 20px;'| Cas?
+|
+|
+|-
+| style='height: 20px;'| A?ezare
+|
+|
+|-
+| style='height: 20px;'| Hanul Arborele verde
+|
+|
+|-
+| style='height: 20px;'| Casa Ion Barbu
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| În punct Valea Boului, în marginea nord-vestic? a c?tunului Coadele
+|
+|
+|-
+| style='height: 20px;'| Pia?a Trandafirilor 5
+|
+|
+|-
+| style='height: 20px;'| Str. Republicii 2
+|
+|
+|-
+| style='height: 20px;'| Str. Cantacuzino Ion, dr. 3
+|
+|
+|-
+| style='height: 20px;'| Bd. G?rii 10
+|
+|
+|-
+| style='height: 20px;'| Str. ?colii 7
+|
+|
+|-
+| style='height: 20px;'| La Holoame
+|
+|
+|-
+| style='height: 20px;'| Dealul Davidului
+|
+|
+|-
+| style='height: 20px;'| În capela din cimitir
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| sat [[Corund, Satu Mare|Corund]]; comuna [[Comuna Bogdand, Satu Mare|Bogdand]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Mogo?oaia, Ilfov|Mogo?oaia]]; comuna [[Comuna Mogo?oaia, Ilfov|Mogo?oaia]]
+|
+|
+|-
+| style='height: 20px;'| ora? [[Pope?ti-Leordeni]]
+|
+|
+|-
+| style='height: 20px;'| sat [[V?lenii ?omcutei, Maramure?|V?lenii ?omcutei]]; ora? [[?omcuta Mare]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Vintil? Vod?, Buz?u|Vintil? Vod?]]; comuna [[Comuna Vintil? Vod?, Buz?u|Vintil? Vod?]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Borle?ti, Arge?|Borle?ti]]; comuna [[Comuna Meri?ani, Arge?|Meri?ani]]
+|
+|
+|-
+| style='height: 20px;'| municipiul [[Cluj-Napoca]]
+|
+|
+|-
+| style='height: 20px;'| municipiul [[Reghin]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Vârvor, Dolj|Vârvor]]; comuna [[Comuna Vârvoru de Jos, Dolj|Vârvoru de Jos]]
+|
+|
+|-
+| style='height: 20px;'| sat [[Cerne?i, Mehedin?i|Cerne?i]]; comuna [[Comuna ?imian, Mehedin?i|?imian]]
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| File:Stefulescu.jpg
+|
+|
+|-
+| style='height: 20px;'| File:Casa Andrei Mure?anu ?i Constantin Sec?reanu Brasov 02.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Fi?ier:Manastirea Slatina13.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Sibiu_-_J&oldid=10526735
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Mure%C8%99_-_S&oldid=10526746
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_Bucure%C8%99ti%2C_sector_3&oldid=10536653
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Bistri%C8%9Ba-N%C4%83s%C4%83ud&oldid=10526542
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_Bucure%C8%99ti%2C_sector_2&oldid=10554830
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Harghita&oldid=10526646
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Sibiu_-_M&oldid=10526738
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Bistri%C8%9Ba-N%C4%83s%C4%83ud&oldid=10526542
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Hunedoara&oldid=10554810
+|
+|
+|-
+| style='height: 20px;'| //ro.wikipedia.org/w/index.php?title=Lista_monumentelor_istorice_din_jude%C8%9Bul_Constan%C8%9Ba&oldid=10526594
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ ro-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

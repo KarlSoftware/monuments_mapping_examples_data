@@ -1,0 +1,687 @@
+= Non-standardized fields from country ph in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| PH-40-0005-NCT
+|
+|
+|-
+| style='height: 20px;'| PH-01-0003-NCT
+|
+|
+|-
+| style='height: 20px;'| PH-05-0029
+|
+|
+|-
+| style='height: 20px;'| PH-16-0008-NCT
+|
+|
+|-
+| style='height: 20px;'| PH-01-0033
+|
+|
+|-
+| style='height: 20px;'| PH-03-0054
+|
+|
+|-
+| style='height: 20px;'| PH-03-0044
+|
+|
+|-
+| style='height: 20px;'| PH-40-0022
+|
+|
+|-
+| style='height: 20px;'| PH-02-0007
+|
+|
+|-
+| style='height: 20px;'| PH-41-0003-NCT
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+| style='height: 20px;'| ph
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ph-40
+|
+|
+|-
+| style='height: 20px;'| ph-06
+|
+|
+|-
+| style='height: 20px;'| ph-01
+|
+|
+|-
+| style='height: 20px;'| ph-40
+|
+|
+|-
+| style='height: 20px;'| ph-01
+|
+|
+|-
+| style='height: 20px;'| ph-41
+|
+|
+|-
+| style='height: 20px;'| ph-14
+|
+|
+|-
+| style='height: 20px;'| ph-01
+|
+|
+|-
+| style='height: 20px;'| ph-00
+|
+|
+|-
+| style='height: 20px;'| ph-40
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Rizal]]
+|
+|
+|-
+| style='height: 20px;'| [[Iloilo]]
+|
+|
+|-
+| style='height: 20px;'| [[Antique]]
+|
+|
+|-
+| style='height: 20px;'| [[Quezon]]
+|
+|
+|-
+| style='height: 20px;'| [[Bohol]]
+|
+|
+|-
+| style='height: 20px;'| [[Negros Occidental]]
+|
+|
+|-
+| style='height: 20px;'| [[Pampanga]]
+|
+|
+|-
+| style='height: 20px;'| [[Ilocos Sur]]
+|
+|
+|-
+| style='height: 20px;'| [[Romblon]]
+|
+|
+|-
+| style='height: 20px;'| [[Batangas]]
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Santa Rosa, Laguna|Santa Rosa]]
+|
+|
+|-
+| style='height: 20px;'| [[General Trias, Cavite|General Trias]]
+|
+|
+|-
+| style='height: 20px;'| [[Imus]]
+|
+|
+|-
+| style='height: 20px;'| [[Tanauan, Batangas|Tanauan]]
+|
+|
+|-
+| style='height: 20px;'| [[Tagbilaran]]
+|
+|
+|-
+| style='height: 20px;'| [[Jimenez, Misamis Occidental|Jimenez]]
+|
+|
+|-
+| style='height: 20px;'| [[Talisay, Cebu|Talisay]]
+|
+|
+|-
+| style='height: 20px;'| [[Romblon, Romblon|Romblon]]
+|
+|
+|-
+| style='height: 20px;'| [[Bulakan, Bulacan|Bulakan]]
+|
+|
+|-
+| style='height: 20px;'| [[Lucban, Quezon|Lucban]]
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Spanish colonial bridges in Tayabas|Historic Bridges of Tayabas]]: Alitao, Isabel II, Francisco de Asis, Gibanga, [[Malagonlong Bridge|Malagonlong]], Lakawan, Mate, Ese, Despedida, Tuloy and Princesa
+|
+|
+|-
+| style='height: 20px;'| [[San Sebastian Cathedral|Bacolod Cathedral]]
+|
+|
+|-
+| style='height: 20px;'| Lopez Heritage House
+|
+|
+|-
+| style='height: 20px;'| [[San Sebastian Church (Manila)|San Sebastian Church]]
+|
+|
+|-
+| style='height: 20px;'| Itbayat Church
+|
+|
+|-
+| style='height: 20px;'| Philtranco Service Enterprises, Inc.
+|
+|
+|-
+| style='height: 20px;'| Punta de Malabrigo Lighthouse
+|
+|
+|-
+| style='height: 20px;'| Badoc Church
+|
+|
+|-
+| style='height: 20px;'| Gregoria M. Rivera Memorial Library
+|
+|
+|-
+| style='height: 20px;'| [[Santa Cruz Parish Church (Maribojoc)|Maribojoc Church]]
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Sitio Old (Lower) Boso-Boso
+|
+|
+|-
+| style='height: 20px;'| Mount Samat Rd.
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Rizal St. cor. Daliz St.
+|
+|
+|-
+| style='height: 20px;'| Santa Rosa-Tagaytay Rd
+|
+|
+|-
+| style='height: 20px;'| Iwahig
+|
+|
+|-
+| style='height: 20px;'| T.Claudio St.
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| [[Maragondon, Cavite|Maragondon]]
+|
+|
+|-
+| style='height: 20px;'| [[Sagada]]
+|
+|
+|-
+| style='height: 20px;'| [[Panglao, Bohol|Panglao]]
+|
+|
+|-
+| style='height: 20px;'| [[Lingayen, Pangasinan|Lingayen]]
+|
+|
+|-
+| style='height: 20px;'| [[Loay, Bohol|Loay]]
+|
+|
+|-
+| style='height: 20px;'| [[Daet, Camarines Norte|Daet]]
+|
+|
+|-
+| style='height: 20px;'| [[Bauan, Batangas|Bauan]]
+|
+|
+|-
+| style='height: 20px;'| [[Iloilo City]]
+|
+|
+|-
+| style='height: 20px;'| [[Muñoz, Nueva Ecija|Muñoz]]
+|
+|
+|-
+| style='height: 20px;'| [[Iriga]]
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Dayrit.jpg
+|
+|
+|-
+| style='height: 20px;'| Santa Barbara Golf Course.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Silliman University Panoramic View.JPG
+|
+|
+|-
+| style='height: 20px;'| Malagonlong Bridge.jpg
+|
+|
+|-
+| style='height: 20px;'| Manuel Severino Hofileña Heritage House.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Iguig Church
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Fort Pilar
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Calabarzon&oldid=711362699
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Central_Visayas&oldid=664850566
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Central_Luzon&oldid=664842657
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Western_Visayas&oldid=664850547
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Zamboanga_Peninsula&oldid=664851597
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Central_Luzon&oldid=664842657
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_National_Cultural_Treasures_in_the_Philippines&oldid=692824799
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Zamboanga_Peninsula&oldid=664851597
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Western_Visayas&oldid=664850547
+|
+|
+|-
+| style='height: 20px;'| //en.wikipedia.org/w/index.php?title=List_of_Cultural_Properties_of_the_Philippines_in_Cagayan_Valley&oldid=664842147
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ ph-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

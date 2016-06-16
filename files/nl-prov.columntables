@@ -1,0 +1,687 @@
+= Non-standardized fields from country nl-prov in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| NH/WN245
+|
+|
+|-
+| style='height: 20px;'| DR/PM2-0270
+|
+|
+|-
+| style='height: 20px;'| NH/WN589
+|
+|
+|-
+| style='height: 20px;'| NH/WN324
+|
+|
+|-
+| style='height: 20px;'| DR/PM1-0170
+|
+|
+|-
+| style='height: 20px;'| NH/WN405
+|
+|
+|-
+| style='height: 20px;'| NH/WN292
+|
+|
+|-
+| style='height: 20px;'| NH/WN342
+|
+|
+|-
+| style='height: 20px;'| NH/WN322
+|
+|
+|-
+| style='height: 20px;'| NH/WN561
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+| style='height: 20px;'| nl
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| nl-dr
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-nh
+|
+|
+|-
+| style='height: 20px;'| nl-dr
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Spaarndam
+|
+|
+|-
+| style='height: 20px;'| Ijmuiden
+|
+|
+|-
+| style='height: 20px;'| Valthe
+|
+|
+|-
+| style='height: 20px;'| Niedorp
+|
+|
+|-
+| style='height: 20px;'| Heemstede
+|
+|
+|-
+| style='height: 20px;'| [[Anloo]]
+|
+|
+|-
+| style='height: 20px;'| Midwoud
+|
+|
+|-
+| style='height: 20px;'| Spaarndam
+|
+|
+|-
+| style='height: 20px;'| Heemstede
+|
+|
+|-
+| style='height: 20px;'| Oostknollendam
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Boerderij
+|
+|
+|-
+| style='height: 20px;'| [[Noorder IJ- en Zeedijk]]
+|
+|
+|-
+| style='height: 20px;'| [[Noorder IJ- en Zeedijk]]: dijk
+|
+|
+|-
+| style='height: 20px;'| Voormalige kerk
+|
+|
+|-
+| style='height: 20px;'| Twee houtloodsen
+|
+|
+|-
+| style='height: 20px;'| Huize Nassau
+|
+|
+|-
+| style='height: 20px;'| Stolpboerderij
+|
+|
+|-
+| style='height: 20px;'| Woonhuis
+|
+|
+|-
+| style='height: 20px;'| Ontginningsboerderij in Overgangsstijl
+|
+|
+|-
+| style='height: 20px;'| [[Stelling van Amsterdam]]: Brug acces Hoofdweg-Westzijde over Voorkanaal
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Dorpsstraat 170
+|
+|
+|-
+| style='height: 20px;'| {{sorteer|Brink 10|Brink 10}}
+|
+|
+|-
+| style='height: 20px;'| {{sorteer|Hoofdstraat 004|Hoofdstraat 4}}
+|
+|
+|-
+| style='height: 20px;'| Asserstraat 101
+|
+|
+|-
+| style='height: 20px;'| Gedempte Gracht 40
+|
+|
+|-
+| style='height: 20px;'| Dorpsstraat 52
+|
+|
+|-
+| style='height: 20px;'| Herenweg 5
+|
+|
+|-
+| style='height: 20px;'| {{sorteer|Majoor van Swietenlaan 35|Majoor van Swietenlaan 35}}
+|
+|
+|-
+| style='height: 20px;'| Herenweg 92
+|
+|
+|-
+| style='height: 20px;'| Dorpsweg 176
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Nevenbatterij_met_geschutopstelplaatsen_-_Heemskerk_-_20339089_-_RCE.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Station Obdam.jpg
+|
+|
+|-
+| style='height: 20px;'| Grenspaal, Etersheim.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Luchtwachttoren 7Z3
+|
+|
+|-
+| style='height: 20px;'| Adelbertkapel (Bloemendaal)
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Drenthe&oldid=46602780
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Noord-Holland&oldid=46648644
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Drenthe&oldid=46602780
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Noord-Holland&oldid=46648644
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Noord-Holland&oldid=46648644
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Noord-Holland&oldid=46648644
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Drenthe&oldid=46602780
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Drenthe&oldid=46602780
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Noord-Holland&oldid=46648644
+|
+|
+|-
+| style='height: 20px;'| //nl.wikipedia.org/w/index.php?title=Lijst_van_provinciale_monumenten_in_Noord-Holland&oldid=46648644
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Stelling_van_Amsterdam
+|
+|
+|-
+| style='height: 20px;'| Stelling_van_Amsterdam
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Noorder_IJ-_en_Zeedijk
+|
+|
+|-
+| style='height: 20px;'| Stelling_van_Amsterdam
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ nl-prov-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| http://www.provincialemonumentendrenthe.nl/monumenten/directiewoning-hoogersmilde-roelfsema-rzn-weg-21-22/
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

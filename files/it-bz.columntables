@@ -1,0 +1,687 @@
+= Non-standardized fields from country it-bz in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 16813
+|
+|
+|-
+| style='height: 20px;'| 16844
+|
+|
+|-
+| style='height: 20px;'| 13629
+|
+|
+|-
+| style='height: 20px;'| 17206
+|
+|
+|-
+| style='height: 20px;'| 14197
+|
+|
+|-
+| style='height: 20px;'| 13663
+|
+|
+|-
+| style='height: 20px;'| 17889
+|
+|
+|-
+| style='height: 20px;'| 15883
+|
+|
+|-
+| style='height: 20px;'| 50508
+|
+|
+|-
+| style='height: 20px;'| 17878
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+| style='height: 20px;'| it
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+| style='height: 20px;'| it-32
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+| style='height: 20px;'| it-bz
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Schluderns
+|
+|
+|-
+| style='height: 20px;'| Vintl
+|
+|
+|-
+| style='height: 20px;'| Bruneck
+|
+|
+|-
+| style='height: 20px;'| Hafling
+|
+|
+|-
+| style='height: 20px;'| Meran
+|
+|
+|-
+| style='height: 20px;'| Deutschnofen
+|
+|
+|-
+| style='height: 20px;'| Eppan
+|
+|
+|-
+| style='height: 20px;'| Sterzing
+|
+|
+|-
+| style='height: 20px;'| Mühlbach (Südtirol)
+|
+|
+|-
+| style='height: 20px;'| Brixen
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Pfarrkirche St. Lorenz mit Egererkapelle und Friedhof
+|
+|
+|-
+| style='height: 20px;'| Lindeplatt in Kreut
+|
+|
+|-
+| style='height: 20px;'| Mair in Rentsch
+|
+|
+|-
+| style='height: 20px;'| Hans-Feur-Straße 2-4
+|
+|
+|-
+| style='height: 20px;'| Zuhaus zum Platter
+|
+|
+|-
+| style='height: 20px;'| Khuen in der Mahr
+|
+|
+|-
+| style='height: 20px;'| Hotel Post
+|
+|
+|-
+| style='height: 20px;'| St. Jakob
+|
+|
+|-
+| style='height: 20px;'| Mühlegg mit Kornkasten und Johannes-Nepomuk-Kapelle
+|
+|
+|-
+| style='height: 20px;'| Prantschur in St. Peter
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Anselm-Pattis-Straße 22
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Kaltern
+|
+|
+|-
+| style='height: 20px;'| Klausen (Südtirol)
+|
+|
+|-
+| style='height: 20px;'| Mals
+|
+|
+|-
+| style='height: 20px;'| Brixen
+|
+|
+|-
+| style='height: 20px;'| Neumarkt (Südtirol)
+|
+|
+|-
+| style='height: 20px;'| Latsch
+|
+|
+|-
+| style='height: 20px;'| Rodeneck
+|
+|
+|-
+| style='height: 20px;'| Bozen
+|
+|
+|-
+| style='height: 20px;'| Schlanders
+|
+|
+|-
+| style='height: 20px;'| Kaltern
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| St.-Martin-Straße 1.JPG
+|
+|
+|-
+| style='height: 20px;'| Meran Villa Sonnegg 2015.jpg
+|
+|
+|-
+| style='height: 20px;'| Villa Johannes, St.-Georgen-Straße 22, Meran.JPG
+|
+|
+|-
+| style='height: 20px;'| Historisches Gasthaus An der Viehscheid , heute "Zur Traube", Algund, Südtirol.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Gasthaus Unterwirt Wengen 04.JPG
+|
+|
+|-
+| style='height: 20px;'| Battistihof bei Kaltern (2).JPG
+|
+|
+|-
+| style='height: 20px;'| Runggadgasse 7 (Brixen in Südtirol).JPG
+|
+|
+|-
+| style='height: 20px;'| Rodeneck-Widum-Vill-mit-StBlasius.JPG
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Baumannhof (St. Pankraz)
+|
+|
+|-
+| style='height: 20px;'| Sterzing-Altstadt 8A
+|
+|
+|-
+| style='height: 20px;'| Wiesenheim
+|
+|
+|-
+| style='height: 20px;'| Branneser
+|
+|
+|-
+| style='height: 20px;'| Institut der Englischen Fräulein (Meran)
+|
+|
+|-
+| style='height: 20px;'| Chapel in Landro
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Sterzing-Neustadt 43
+|
+|
+|-
+| style='height: 20px;'| Mariä Heimsuchung (Plawenn)
+|
+|
+|-
+| style='height: 20px;'| Mariä Himmelfahrt (Feldthurns)
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Eppan&oldid=152848467
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Rasen-Antholz&oldid=152848919
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Bozen&oldid=154377965
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Bozen&oldid=154377965
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Schenna&oldid=152849004
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Abtei_%28S%C3%BCdtirol%29&oldid=152850050
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Karneid&oldid=152850801
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Ahrntal&oldid=152848212
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_St._Lorenzen_%28S%C3%BCdtirol%29&oldid=152849381
+|
+|
+|-
+| style='height: 20px;'| //de.wikipedia.org/w/index.php?title=Liste_der_Baudenkm%C3%A4ler_in_Bozen&oldid=154377965
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Churburg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ it-bz-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=50268
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=16046
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=16836
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=14450
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=17966
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=50228
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=16204
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=15081
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=14978
+|
+|
+|-
+| style='height: 20px;'| http://www.provinz.bz.it/denkmalpflege/themen/1071.asp?status=detail&id=50547
+|
+|
+|-
+|}

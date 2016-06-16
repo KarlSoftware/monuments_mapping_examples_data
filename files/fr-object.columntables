@@ -1,0 +1,687 @@
+= Non-standardized fields from country fr-object in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| PM68001903
+|
+|
+|-
+| style='height: 20px;'| PM91000776
+|
+|
+|-
+| style='height: 20px;'| PM68001683
+|
+|
+|-
+| style='height: 20px;'| PM68000870
+|
+|
+|-
+| style='height: 20px;'| PM93000338
+|
+|
+|-
+| style='height: 20px;'| PM13001069
+|
+|
+|-
+| style='height: 20px;'| PM68001719
+|
+|
+|-
+| style='height: 20px;'| PM68001833
+|
+|
+|-
+| style='height: 20px;'| PM68001931
+|
+|
+|-
+| style='height: 20px;'| PM68001725
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+| style='height: 20px;'| fr
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| La_Neuville-lès-Bray
+|
+|
+|-
+| style='height: 20px;'| Abreschviller
+|
+|
+|-
+| style='height: 20px;'| Chirac-Bellevue
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Musée_régional_de_l'air_d'Angers-Marcé
+|
+|
+|-
+| style='height: 20px;'| Réau
+|
+|
+|-
+| style='height: 20px;'| Orléans
+|
+|
+|-
+| style='height: 20px;'| Miramas
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Grez-sur-Loing
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Argenteuil_(Val-d'Oise)
+|
+|
+|-
+| style='height: 20px;'| Nantes
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+| style='height: 20px;'| Mulhouse
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Gordini Type 16.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Peugeot Typ 161 1922.JPG
+|
+|
+|-
+| style='height: 20px;'| Lancia Theta Torpedo 1917.jpg
+|
+|
+|-
+| style='height: 20px;'| Voiture_CBR_B328.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| De Dion-Bouton Type G Vis-a-Vis 1901.jpg
+|
+|
+|-
+| style='height: 20px;'| 1958 Maserati GP 250, 6 cylinder, 290hp, 2494cm3, 280kmh, photo 1.JPG
+|
+|
+|-
+| style='height: 20px;'| 1898 Clement-De dion phaetonnet, 269cc 2,25cv 35kmh (inv 1918) photo 2.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_v%C3%A9hicules_automobiles_prot%C3%A9g%C3%A9s_au_titre_des_monuments_historiques&oldid=126531416
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_v%C3%A9hicules_automobiles_prot%C3%A9g%C3%A9s_au_titre_des_monuments_historiques&oldid=126531416
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_v%C3%A9hicules_automobiles_prot%C3%A9g%C3%A9s_au_titre_des_monuments_historiques&oldid=126531416
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_v%C3%A9hicules_automobiles_prot%C3%A9g%C3%A9s_au_titre_des_monuments_historiques&oldid=126531416
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_voitures_et_wagons_prot%C3%A9g%C3%A9s_aux_monuments_historiques&oldid=126860993
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_voitures_et_wagons_prot%C3%A9g%C3%A9s_aux_monuments_historiques&oldid=126860993
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_v%C3%A9hicules_automobiles_prot%C3%A9g%C3%A9s_au_titre_des_monuments_historiques&oldid=126531416
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_locomotives_prot%C3%A9g%C3%A9es_aux_monuments_historiques&oldid=126854973
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_locomotives_prot%C3%A9g%C3%A9es_aux_monuments_historiques&oldid=126854973
+|
+|
+|-
+| style='height: 20px;'| //fr.wikipedia.org/w/index.php?title=Liste_des_locomotives_prot%C3%A9g%C3%A9es_aux_monuments_historiques&oldid=126854973
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ fr-object-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM68001917
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM76002154
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM59001729
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM55000916
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM68001921
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM68002022
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM91000604
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM68001791
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM37000373
+|
+|
+|-
+| style='height: 20px;'| http://www.culture.gouv.fr/public/mistral/palissy_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PM68000435
+|
+|
+|-
+|}

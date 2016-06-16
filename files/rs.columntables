@@ -1,0 +1,687 @@
+= Non-standardized fields from country rs in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ?? 1076
+|
+|
+|-
+| style='height: 20px;'| ?? 1073
+|
+|
+|-
+| style='height: 20px;'| ?? 1949
+|
+|
+|-
+| style='height: 20px;'| ???? 48
+|
+|
+|-
+| style='height: 20px;'| ?? 44
+|
+|
+|-
+| style='height: 20px;'| ?? 1930
+|
+|
+|-
+| style='height: 20px;'| ?? 4
+|
+|
+|-
+| style='height: 20px;'| ?? 943
+|
+|
+|-
+| style='height: 20px;'| ?? 833
+|
+|
+|-
+| style='height: 20px;'| ?? 1626
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+| style='height: 20px;'| rs
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| rs-14
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+| style='height: 20px;'| ??????
+|
+|
+|-
+| style='height: 20px;'| ??
+|
+|
+|-
+| style='height: 20px;'| ??????? ????
+|
+|
+|-
+| style='height: 20px;'| ??????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ?????
+|
+|
+|-
+| style='height: 20px;'| ???
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ?????
+|
+|
+|-
+| style='height: 20px;'| ?????????
+|
+|
+|-
+| style='height: 20px;'| ?????
+|
+|
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+| style='height: 20px;'| ??????
+|
+|
+|-
+| style='height: 20px;'| ?????????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ?????
+|
+|
+|-
+| style='height: 20px;'| ??? (????)
+|
+|
+|-
+| style='height: 20px;'| ????? ?????????
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ????? ????
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ???????? ???????
+|
+|
+|-
+| style='height: 20px;'| ??????? ????
+|
+|
+|-
+| style='height: 20px;'| ????? ???? ?????? ?????? ? ????????
+|
+|
+|-
+| style='height: 20px;'| ?????? ?? ???? ?????????? ??. 6 ? ???????
+|
+|
+|-
+| style='height: 20px;'| ????? ?????? ???????? ? ????????
+|
+|
+|-
+| style='height: 20px;'| ?????? ?????? ?? ????? ???????? ????
+|
+|
+|-
+| style='height: 20px;'| ?????????? ??????? ? ?????
+|
+|
+|-
+| style='height: 20px;'| ????????????? ?????? ???????? ????
+|
+|
+|-
+| style='height: 20px;'| ????? ?????? ?????? ? ????????
+|
+|
+|-
+| style='height: 20px;'| ?????? ????????? ?????????
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ???????????? 97
+|
+|
+|-
+| style='height: 20px;'| ???????? 28
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ??? ???? ???????? 1
+|
+|
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+| style='height: 20px;'| ??????? ????
+|
+|
+|-
+| style='height: 20px;'| ??????? (?????? ?????)
+|
+|
+|-
+| style='height: 20px;'| ???? (???????)
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ????????? (???????)
+|
+|
+|-
+| style='height: 20px;'| ??????
+|
+|
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+| style='height: 20px;'| ????????
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| I?o, Orthodox church.jpg
+|
+|
+|-
+| style='height: 20px;'| Orlovat, Orthodox Church.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Pogled na Leje1.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Sremska Mitrovica Trg 1.jpg
+|
+|
+|-
+| style='height: 20px;'| Former Kara?or?e Grave.jpg
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%9F%D0%BE%D0%BC%D0%BE%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11873754
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83&oldid=11842664
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%88%D0%B0%D0%B1%D0%BB%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11550004
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%A1%D1%80%D0%B5%D0%B4%D1%9A%D0%BE%D0%B1%D0%B0%D0%BD%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11550027
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83&oldid=11842664
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83&oldid=11842664
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B1%D0%B0%D0%BD%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11550025
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%9F%D0%BE%D0%BC%D0%BE%D1%80%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11873754
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%A8%D1%83%D0%BC%D0%B0%D0%B4%D0%B8%D1%98%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11691103
+|
+|
+|-
+| style='height: 20px;'| //sr.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BF%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B5_%D1%83_%D0%88%D1%83%D0%B6%D0%BD%D0%BE%D0%B1%D0%B0%D0%BD%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BA%D1%80%D1%83%D0%B3%D1%83&oldid=11550005
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ????? ??. ????? ? ????????
+|
+|
+|-
+| style='height: 20px;'| ???????????? ???? ?? ????????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ?????? ??????? ?????????? ??? ??????
+|
+|
+|-
+| style='height: 20px;'| ???????? ????????
+|
+|
+|-
+| style='height: 20px;'| ?????? ????? ??????? ? ????
+|
+|
+|-
+| style='height: 20px;'| ???? ???????? ????????
+|
+|
+|-
+| style='height: 20px;'| ??????????? ????
+|
+|
+|-
+| style='height: 20px;'| ?????? ??????????? ????? ? ??????
+|
+|
+|-
+| style='height: 20px;'| ????? ?????? ?????? ? ???????
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ rs-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}

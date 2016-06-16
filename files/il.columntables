@@ -1,0 +1,687 @@
+= Non-standardized fields from country il in monuments_all =
+== 10 random samples from field id ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-id 10 random samples
+! scope='col' style='width: 225px;' |id
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 2-3000-502
+|
+|
+|-
+| style='height: 20px;'| 6-6700-002
+|
+|
+|-
+| style='height: 20px;'| 3-6400-118
+|
+|
+|-
+| style='height: 20px;'| 16-0596-101
+|
+|
+|-
+| style='height: 20px;'| 8-0403-001
+|
+|
+|-
+| style='height: 20px;'| 3-6400-113
+|
+|
+|-
+| style='height: 20px;'| 11-3000-105
+|
+|
+|-
+| style='height: 20px;'| 9-2640-006
+|
+|
+|-
+| style='height: 20px;'| 3-5000-354
+|
+|
+|-
+| style='height: 20px;'| 6-7600-007
+|
+|
+|-
+|}
+== 10 random samples from field adm0 ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-adm0 10 random samples
+! scope='col' style='width: 225px;' |adm0
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+| style='height: 20px;'| il
+|
+|
+|-
+|}
+== 10 random samples from field adm1 ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-adm1 10 random samples
+! scope='col' style='width: 225px;' |adm1
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| il-ta
+|
+|
+|-
+| style='height: 20px;'| il-jm
+|
+|
+|-
+| style='height: 20px;'| il-jm
+|
+|
+|-
+| style='height: 20px;'| il-ha
+|
+|
+|-
+| style='height: 20px;'| il-z
+|
+|
+|-
+| style='height: 20px;'| il-jm
+|
+|
+|-
+| style='height: 20px;'| il-ta
+|
+|
+|-
+| style='height: 20px;'| il-ta
+|
+|
+|-
+| style='height: 20px;'| il-z
+|
+|
+|-
+| style='height: 20px;'| il-jm
+|
+|
+|-
+|}
+== 10 random samples from field adm2 ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-adm2 10 random samples
+! scope='col' style='width: 225px;' |adm2
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ?? ????-???
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ??????
+|
+|
+|-
+| style='height: 20px;'| ????? ?????? ????
+|
+|
+|-
+| style='height: 20px;'| ????? ????
+|
+|
+|-
+| style='height: 20px;'| ????? ?????
+|
+|
+|-
+| style='height: 20px;'| ????? ?????
+|
+|
+|-
+| style='height: 20px;'| ??? ?????
+|
+|
+|-
+|}
+== 10 random samples from field adm3 ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-adm3 10 random samples
+! scope='col' style='width: 225px;' |adm3
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field adm4 ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-adm4 10 random samples
+! scope='col' style='width: 225px;' |adm4
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+| style='height: 20px;'| None
+|
+|
+|-
+|}
+== 10 random samples from field name ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-name 10 random samples
+! scope='col' style='width: 225px;' |name
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ?? ????
+|
+|
+|-
+| style='height: 20px;'| ???? ??????
+|
+|
+|-
+| style='height: 20px;'| ??? ????? ????
+|
+|
+|-
+| style='height: 20px;'| ??? ????
+|
+|
+|-
+| style='height: 20px;'| ????? ??????
+|
+|
+|-
+| style='height: 20px;'| ??????? ??? ?????? ????
+|
+|
+|-
+| style='height: 20px;'| ??? ????? ???"??
+|
+|
+|-
+| style='height: 20px;'| ???? ????? ?'
+|
+|
+|-
+| style='height: 20px;'| ??? ?????? ????? ?????
+|
+|
+|-
+| style='height: 20px;'| ??? ?????????
+|
+|
+|-
+|}
+== 10 random samples from field address ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-address 10 random samples
+! scope='col' style='width: 225px;' |address
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ??' ??? ?? 4
+|
+|
+|-
+| style='height: 20px;'| ??' ??????? 19
+|
+|
+|-
+| style='height: 20px;'| ????? ?? ????, [[?? ????]]
+|
+|
+|-
+| style='height: 20px;'| ???? ????????
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ????
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
+== 10 random samples from field municipality ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-municipality 10 random samples
+! scope='col' style='width: 225px;' |municipality
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ????? ?????
+|
+|
+|-
+| style='height: 20px;'| ?? ????-???
+|
+|
+|-
+| style='height: 20px;'| ???? ?????
+|
+|
+|-
+| style='height: 20px;'| ????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ???????
+|
+|
+|-
+| style='height: 20px;'| ??? ??
+|
+|
+|-
+| style='height: 20px;'| ????? ?????? ??? ??????
+|
+|
+|-
+| style='height: 20px;'| ??????
+|
+|
+|-
+|}
+== 10 random samples from field image ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-image 10 random samples
+! scope='col' style='width: 225px;' |image
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Skopusberg mit Universitaet.jpg
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| Jerusalem Via Dolorosa BW 6.JPG
+|
+|
+|-
+| style='height: 20px;'| Romhamon3.jpg
+|
+|
+|-
+| style='height: 20px;'| House of Grace, Haifa.JPG
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| PikiWiki Israel 7092 barrels of water on a wooden cart.JPG
+|
+|
+|-
+| style='height: 20px;'| ????? ??? ???????.JPG
+|
+|
+|-
+|}
+== 10 random samples from field commonscat ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-commonscat 10 random samples
+! scope='col' style='width: 225px;' |commonscat
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| Guttmann-Bachar House
+|
+|
+|-
+| style='height: 20px;'| Heritage sites in Holon
+|
+|
+|-
+| style='height: 20px;'| Ayelet HaShahar Horseshoe Houses ?
+|
+|
+|-
+| style='height: 20px;'| Negev Art Museum
+|
+|
+|-
+| style='height: 20px;'| Maresha
+|
+|
+|-
+| style='height: 20px;'| Joa'ra
+|
+|
+|-
+| style='height: 20px;'| Yesod HaMa'ala ?
+|
+|
+|-
+| style='height: 20px;'| Heritage sites in Holon
+|
+|
+|-
+| style='height: 20px;'| St. Clare monastery, Jerusalem
+|
+|
+|-
+| style='height: 20px;'| Heritage sites in the Southern District (Israel)
+|
+|
+|-
+|}
+== 10 random samples from field source ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-source 10 random samples
+! scope='col' style='width: 225px;' |source
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17443502
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_%D7%91%D7%93%D7%A8%D7%95%D7%9D_%D7%94%D7%90%D7%A8%D7%A5/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17715481
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_%D7%91%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17443506
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_%D7%91%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17443502
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA_%D7%91%D7%93%D7%A8%D7%95%D7%9D_%D7%94%D7%90%D7%A8%D7%A5/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17715481
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%A2%D7%AA%D7%99%D7%A7%D7%95%D7%AA_%D7%91%D7%A6%D7%A4%D7%95%D7%9F_%D7%94%D7%90%D7%A8%D7%A5/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17661981
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_%D7%9B%D7%AA%D7%99%D7%91%D7%AA_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D&oldid=18732681
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%90%D7%AA%D7%A8%D7%99_%D7%A2%D7%AA%D7%99%D7%A7%D7%95%D7%AA_%D7%91%D7%A6%D7%A4%D7%95%D7%9F_%D7%94%D7%90%D7%A8%D7%A5/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_2015&oldid=17661981
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_%D7%9B%D7%AA%D7%99%D7%91%D7%AA_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D&oldid=18732681
+|
+|
+|-
+| style='height: 20px;'| //he.wikipedia.org/w/index.php?title=%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94%3A%D7%9E%D7%99%D7%96%D7%9E%D7%99_%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94_%D7%90%D7%95%D7%94%D7%91%D7%AA_%D7%90%D7%AA%D7%A8%D7%99_%D7%9E%D7%95%D7%A8%D7%A9%D7%AA/%D7%AA%D7%97%D7%A8%D7%95%D7%AA_%D7%9B%D7%AA%D7%99%D7%91%D7%AA_%D7%A2%D7%A8%D7%9B%D7%99%D7%9D&oldid=18732681
+|
+|
+|-
+|}
+== 10 random samples from field monument_article ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-monument_article 10 random samples
+! scope='col' style='width: 225px;' |monument_article
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| ??? ?????
+|
+|
+|-
+| style='height: 20px;'| ?? ????? (??? ???)
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ???? ??? ???
+|
+|
+|-
+| style='height: 20px;'| ??? ???????
+|
+|
+|-
+| style='height: 20px;'| ??? ????? (??? ?????)
+|
+|
+|-
+| style='height: 20px;'| ????? ??? ????? (???????)
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| ????? ???? ?? ???? (???? ???)
+|
+|
+|-
+|}
+== 10 random samples from field registrant_url ==
+
+{| class="wikitable" style="width: 675px;
+|+ il-registrant_url 10 random samples
+! scope='col' style='width: 225px;' |registrant_url
+! scope='col' style='width: 225px; height: 20px;'|Conversion 
+! scope='col' style='width: 225px;' | Comment
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+| style='height: 20px;'| 
+|
+|
+|-
+|}
